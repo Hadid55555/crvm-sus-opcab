@@ -1,0 +1,11 @@
+variavel,grupo,n,transferencias,pct_transf,obitos,pct_obito
+Technique,Off-pump,38598,203,0.526,1422,3.684
+Technique,On-pump,344322,919,0.267,20245,5.88
+Hospital-year OPCAB %,0-5%,242694,632,0.26,15244,6.281
+Hospital-year OPCAB %,>15-30%,23201,55,0.237,1160,5.0
+Hospital-year OPCAB %,>30%,40913,206,0.504,2122,5.187
+Hospital-year OPCAB %,>5-15%,76112,229,0.301,3141,4.127
+Hospital OPCAB % 2008–2025,High (≥20%),52517,214,0.407,2734,5.206
+Hospital OPCAB % 2008–2025,Intermediate (5–<20%),105680,322,0.305,4374,4.139
+Hospital OPCAB % 2008–2025,Low (>0–<5%),188427,453,0.24,11783,6.253
+Hospital OPCAB % 2008–2025,None (0%),36296,133,0.366,2776,7.648

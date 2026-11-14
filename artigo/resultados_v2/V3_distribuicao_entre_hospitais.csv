@@ -1,0 +1,7 @@
+hospitais,medida,n_hosp,P5,P10,P25,mediana,P75,P90,P95,pct_hosp_<1%,pct_hosp_>=20%
+All hospitals,Crude %,286,0.0,0.0,0.01,1.31,9.96,41.21,71.58,46.85,15.03
+All hospitals,"Adjusted % (EB, national case-mix)",286,0.04,0.06,0.21,1.33,9.76,41.5,68.72,44.41,14.69
+Hospitals with ≥50 AIH,Crude %,252,0.0,0.0,0.12,1.6,9.9,32.36,63.68,43.65,14.29
+Hospitals with ≥50 AIH,"Adjusted % (EB, national case-mix)",252,0.04,0.05,0.18,1.51,9.82,32.45,64.21,42.86,13.89
+Hospitals with ≥200 AIH,Crude %,226,0.0,0.0,0.14,1.61,10.17,38.21,67.23,43.36,15.49
+Hospitals with ≥200 AIH,"Adjusted % (EB, national case-mix)",226,0.03,0.05,0.17,1.56,10.21,39.25,67.36,42.48,15.04

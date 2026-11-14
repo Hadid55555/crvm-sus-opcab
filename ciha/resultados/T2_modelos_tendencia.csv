@@ -1,0 +1,25 @@
+recorte,desfecho,termo,or,lo,hi,p,beta,se
+Todos os hospitais,sem CEC,SUS: OR por ano de receber sem CEC,1.0136,0.9705,1.0587,0.5421,0.0135,0.0222
+Todos os hospitais,sem CEC,Diferença de tendência (fora do SUS ÷ SUS),0.9995,0.947,1.0548,0.9843,-0.0005,0.0275
+Todos os hospitais,sem CEC,Fora do SUS: OR por ano de receber sem CEC,1.0131,0.9724,1.0555,0.5345,0.013,0.0209
+Todos os hospitais,óbito (ajust. técnica),SUS: OR por ano de óbito,0.9912,0.9808,1.0018,0.1027,-0.0088,0.0054
+Todos os hospitais,óbito (ajust. técnica),Diferença de tendência da mortalidade (fora ÷ SUS),1.0071,0.9813,1.0337,0.5926,0.0071,0.0133
+Todos os hospitais,óbito (ajust. técnica),Fora do SUS × SUS em 2011 (óbito),0.7164,0.5555,0.9238,0.0101,-0.3336,0.1297
+Todos os hospitais,"óbito, com CEC",SUS: OR por ano,0.9908,0.9799,1.0018,0.1014,-0.0092,0.0056
+Todos os hospitais,"óbito, sem CEC",SUS: OR por ano,0.9979,0.9735,1.023,0.8697,-0.0021,0.0127
+Todos os hospitais,óbito,SUS: OR sem × com CEC (ajustado),0.5878,0.4849,0.7127,0.0,-0.5313,0.0983
+Todos os hospitais,"óbito, com CEC",Fora do SUS: OR por ano,0.9964,0.9701,1.0234,0.791,-0.0036,0.0136
+Todos os hospitais,"óbito, sem CEC",Fora do SUS: OR por ano,0.9961,0.9631,1.0302,0.818,-0.004,0.0172
+Todos os hospitais,óbito,Fora do SUS: OR sem × com CEC (ajustado),1.0645,0.8727,1.2986,0.5374,0.0625,0.1014
+Painel estável (≥10 de 15 anos),sem CEC,SUS: OR por ano de receber sem CEC,1.0223,0.9773,1.0693,0.3378,0.022,0.023
+Painel estável (≥10 de 15 anos),sem CEC,Diferença de tendência (fora do SUS ÷ SUS),0.9897,0.9317,1.0514,0.738,-0.0103,0.0308
+Painel estável (≥10 de 15 anos),sem CEC,Fora do SUS: OR por ano de receber sem CEC,1.0118,0.9635,1.0625,0.6393,0.0117,0.025
+Painel estável (≥10 de 15 anos),óbito (ajust. técnica),SUS: OR por ano de óbito,0.9916,0.9805,1.0029,0.1441,-0.0084,0.0058
+Painel estável (≥10 de 15 anos),óbito (ajust. técnica),Diferença de tendência da mortalidade (fora ÷ SUS),0.9995,0.9716,1.0283,0.9744,-0.0005,0.0145
+Painel estável (≥10 de 15 anos),óbito (ajust. técnica),Fora do SUS × SUS em 2011 (óbito),0.7507,0.5676,0.9928,0.0444,-0.2868,0.1426
+Painel estável (≥10 de 15 anos),"óbito, com CEC",SUS: OR por ano,0.9911,0.9794,1.0028,0.1359,-0.009,0.006
+Painel estável (≥10 de 15 anos),"óbito, sem CEC",SUS: OR por ano,0.9987,0.9727,1.0255,0.9258,-0.0013,0.0135
+Painel estável (≥10 de 15 anos),óbito,SUS: OR sem × com CEC (ajustado),0.5952,0.4854,0.7297,0.0,-0.5189,0.104
+Painel estável (≥10 de 15 anos),"óbito, com CEC",Fora do SUS: OR por ano,0.9937,0.9652,1.0231,0.6704,-0.0063,0.0149
+Painel estável (≥10 de 15 anos),"óbito, sem CEC",Fora do SUS: OR por ano,0.9877,0.95,1.0268,0.5315,-0.0124,0.0198
+Painel estável (≥10 de 15 anos),óbito,Fora do SUS: OR sem × com CEC (ajustado),1.0616,0.8509,1.3245,0.5964,0.0598,0.1129

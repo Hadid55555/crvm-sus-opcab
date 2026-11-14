@@ -1,0 +1,158 @@
+{
+ "configuracao": {
+  "janela": "2003–2025",
+  "carater_no_ajuste": false,
+  "microdados": "crvm_2000_2025_internacao_microdados.csv",
+  "casemix": "cr(idade, df=4, constraints='center') + fem + C(diag, Treatment('I25 chronic IHD'))"
+ },
+ "fluxo": {
+  "registros_RD_ano_internacao_2003_2025": 486145,
+  "menores_18": 64,
+  "aih_duplicadas": 2,
+  "longa_permanencia_ident5": 0,
+  "aih_reapresentada_excluida": 1,
+  "adultos_analisados": 486080
+ },
+ "n_adultos": 486080,
+ "n_hospitais": 307,
+ "n_obitos": 28242,
+ "n_hospital_anos_1_aih_excluidos_expo": 69,
+ "mort_global_pct": 5.810154707044108,
+ "off_global_pct": 10.189063528637261,
+ "adocao_or_por_ano_linear": {
+  "or": 1.00195652360836,
+  "lo": 0.9707608365163386,
+  "hi": 1.0341546933475343,
+  "p": 0.903594904746772,
+  "beta": 0.001954612108901459,
+  "se": 0.016137632401251146
+ },
+ "adocao_spline_vs_linear_LR": {
+  "chi2": 187.57448612886947,
+  "gl": 2,
+  "p": 1.8565979398016373e-41
+ },
+ "hier_M0_ano": {
+  "sigma2": 8.093422253596051,
+  "sigma2_lo": 6.617419816137989,
+  "sigma2_hi": 9.898644123387728,
+  "MOR": 15.084479464899637,
+  "MOR_lo": 11.632172682197826,
+  "MOR_hi": 20.10732924710394,
+  "ICC_latente": 0.7109914601344943,
+  "loglik": -105046.67494586275,
+  "loglik_laplace": -105049.53209177138,
+  "loglik_Q21": -105046.77466246436,
+  "convergiu": true,
+  "otimizador": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+  "gradiente_max": 0.0005008311785985597,
+  "n_celulas": 264645,
+  "n_hospitais": 307
+ },
+ "hier_M1_ano_casemix": {
+  "sigma2": 8.12479524729018,
+  "sigma2_lo": 6.643550767243855,
+  "sigma2_hi": 9.93629764009088,
+  "MOR": 15.163949203345886,
+  "MOR_lo": 11.688608572227082,
+  "MOR_hi": 20.22231893361395,
+  "ICC_latente": 0.7117857948245433,
+  "loglik": -104235.2589604931,
+  "loglik_laplace": -104238.12427901987,
+  "loglik_Q21": -104235.35909327857,
+  "convergiu": true,
+  "otimizador": "CONVERGENCE: RELATIVE REDUCTION OF F <= FACTR*EPSMCH",
+  "gradiente_max": 0.5025251595726128,
+  "n_celulas": 264645,
+  "n_hospitais": 307
+ },
+ "hier_pct_variancia_explicada_casemix": -0.38763569613817395,
+ "hosp_nunca_off": {
+  "n": 75,
+  "pct_aih": 7.4131830151415405,
+  "n_com_>=50_aih": 49
+ },
+ "estabilidade_intra_hospital": {
+  "hospitais_>=2_anos": 277,
+  "amplitude_mediana_pp": 9.375,
+  "amplitude_p75": 28.428039501376073,
+  "amplitude_p90": 58.188153310104546,
+  "hosp_amplitude_>=5pp": 174,
+  "hosp_amplitude_>=10pp": 132,
+  "hosp_amplitude_>=20pp": 92,
+  "pares_anos_consecutivos": 3928,
+  "corr_pearson_anos_consecutivos": 0.9289461134521084,
+  "corr_spearman_anos_consecutivos": 0.8232276233097044,
+  "mudanca_absoluta_mediana_pp": 0.6326982111725884,
+  "pct_pares_mudanca_<5pp": 79.22606924643586,
+  "pct_variancia_dentro_hospital": 25.498669882906498
+ },
+ "mort_tendencia_Overall": {
+  "or_por_ano": {
+   "or": 0.9834367779832653,
+   "lo": 0.9760816100595627,
+   "hi": 0.9908473700586253,
+   "p": 1.2969980554219165e-05,
+   "beta": -0.016701925900214,
+   "se": 0.0038301802552140603
+  },
+  "LR_spline_vs_linear": 24.52329549350543,
+  "gl": 2,
+  "p_nao_linear": 4.7297048983934845e-06
+ },
+ "mort_tendencia_On-pump": {
+  "or_por_ano": {
+   "or": 0.9827530510545283,
+   "lo": 0.9752164022012018,
+   "hi": 0.9903479444941948,
+   "p": 9.453467524439812e-06,
+   "beta": -0.017397410075952587,
+   "se": 0.003927791612356901
+  },
+  "LR_spline_vs_linear": 24.999710933392635,
+  "gl": 2,
+  "p_nao_linear": 3.7271918364998495e-06
+ },
+ "mort_tendencia_Off-pump": {
+  "or_por_ano": {
+   "or": 0.9896890904381369,
+   "lo": 0.9731861677001761,
+   "hi": 1.0064718634944994,
+   "p": 0.22701903330879858,
+   "beta": -0.010364435240037414,
+   "se": 0.008579309259029982
+  },
+  "LR_spline_vs_linear": 4.323797807333904,
+  "gl": 2,
+  "p_nao_linear": 0.11510633753297318
+ },
+ "interacao_off_periodo_wald": {
+  "chi2": 2.488118914517273,
+  "gl": 3,
+  "p": 0.4774420886488524
+ },
+ "institucional_categorias_wald": {
+  "chi2": 16.368788539274686,
+  "gl": 4,
+  "p": 0.002562201315988971
+ },
+ "fe_hosp_sem_variacao_desfecho_excluidos": 10,
+ "identificacao_n_efetivo_hospitais": 27.18728568859605,
+ "identificacao_top5_top10_pct": [
+  34.054269002714385,
+  52.735715615378574
+ ],
+ "iv_distribuicao_instrumento_lag": {
+  "count": 457750.0,
+  "mean": 10.105904136242957,
+  "std": 19.296578306944284,
+  "min": 0.0,
+  "10%": 0.0,
+  "25%": 0.0,
+  "50%": 1.4705882352941178,
+  "75%": 9.489051094890511,
+  "90%": 34.04255319148936,
+  "max": 100.0
+ },
+ "extracao": "SIH/SUS RD via espelho healthbr-data; competências jan/2008–jun/2026 (13/out/2026); jan/2000–dez/2007 das tabelas SIH antigas (15/out/2026)"
+}

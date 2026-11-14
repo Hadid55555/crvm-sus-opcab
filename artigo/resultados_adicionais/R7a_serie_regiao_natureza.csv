@@ -1,0 +1,194 @@
+variavel,grupo,ano,n,n_off,pct_off,lo,hi,hospitais
+Region,Center-West,2003,1280,178,13.91,12.12,15.91,17
+Region,North,2003,362,14,3.87,2.32,6.39,5
+Region,Northeast,2003,3013,569,18.88,17.53,20.32,33
+Region,South,2003,5333,207,3.88,3.4,4.43,35
+Region,Southeast,2003,10371,1001,9.65,9.1,10.24,71
+Region,Center-West,2004,1177,233,19.8,17.62,22.17,16
+Region,North,2004,372,22,5.91,3.94,8.79,6
+Region,Northeast,2004,2801,590,21.06,19.59,22.61,32
+Region,South,2004,5377,225,4.18,3.68,4.75,36
+Region,Southeast,2004,10187,1114,10.94,10.34,11.56,77
+Region,Center-West,2005,1195,240,20.08,17.91,22.45,15
+Region,North,2005,403,14,3.47,2.08,5.75,8
+Region,Northeast,2005,2903,649,22.36,20.88,23.91,33
+Region,South,2005,5273,256,4.85,4.31,5.47,36
+Region,Southeast,2005,10840,1186,10.94,10.37,11.54,76
+Region,Center-West,2006,1289,237,18.39,16.37,20.59,15
+Region,North,2006,482,58,12.03,9.42,15.24,7
+Region,Northeast,2006,3266,685,20.97,19.61,22.4,38
+Region,South,2006,5348,328,6.13,5.52,6.81,38
+Region,Southeast,2006,10535,972,9.23,8.69,9.79,84
+Region,Center-West,2007,1168,160,13.7,11.85,15.79,14
+Region,North,2007,510,11,2.16,1.21,3.82,7
+Region,Northeast,2007,3233,574,17.75,16.48,19.11,39
+Region,South,2007,5314,372,7.0,6.34,7.72,39
+Region,Southeast,2007,11128,1034,9.29,8.77,9.85,79
+Region,Center-West,2008,1196,164,13.71,11.88,15.78,15
+Region,North,2008,472,3,0.64,0.22,1.85,7
+Region,Northeast,2008,3147,501,15.92,14.68,17.24,38
+Region,South,2008,4981,390,7.83,7.12,8.61,41
+Region,Southeast,2008,10962,947,8.64,8.13,9.18,86
+Region,Center-West,2009,1211,121,9.99,8.43,11.81,16
+Region,North,2009,570,10,1.75,0.96,3.2,9
+Region,Northeast,2009,3266,590,18.06,16.78,19.42,37
+Region,South,2009,5402,400,7.4,6.74,8.13,41
+Region,Southeast,2009,11102,1158,10.43,9.88,11.01,89
+Region,Center-West,2010,1192,146,12.25,10.51,14.23,16
+Region,North,2010,594,8,1.35,0.68,2.63,9
+Region,Northeast,2010,3281,615,18.74,17.45,20.12,40
+Region,South,2010,5293,430,8.12,7.42,8.89,43
+Region,Southeast,2010,11309,1101,9.74,9.2,10.3,91
+Region,Center-West,2011,1661,108,6.5,5.41,7.79,15
+Region,North,2011,594,18,3.03,1.93,4.74,9
+Region,Northeast,2011,3781,586,15.5,14.38,16.69,42
+Region,South,2011,6021,798,13.25,12.42,14.13,43
+Region,Southeast,2011,11068,938,8.47,7.97,9.01,91
+Region,Center-West,2012,1751,93,5.31,4.36,6.46,16
+Region,North,2012,623,8,1.28,0.65,2.51,9
+Region,Northeast,2012,3940,623,15.81,14.71,16.98,43
+Region,South,2012,6004,808,13.46,12.62,14.34,45
+Region,Southeast,2012,11281,795,7.05,6.59,7.53,94
+Region,Center-West,2013,1721,104,6.04,5.01,7.27,16
+Region,North,2013,637,9,1.41,0.75,2.66,10
+Region,Northeast,2013,4117,744,18.07,16.93,19.28,43
+Region,South,2013,6195,702,11.33,10.57,12.15,46
+Region,Southeast,2013,10711,809,7.55,7.07,8.07,94
+Region,Center-West,2014,1669,119,7.13,5.99,8.47,16
+Region,North,2014,715,4,0.56,0.22,1.43,10
+Region,Northeast,2014,4065,711,17.49,16.35,18.69,44
+Region,South,2014,6082,626,10.29,9.55,11.08,48
+Region,Southeast,2014,10383,661,6.37,5.91,6.85,98
+Region,Center-West,2015,1460,80,5.48,4.42,6.77,16
+Region,North,2015,713,56,7.85,6.1,10.06,10
+Region,Northeast,2015,3942,906,22.98,21.7,24.32,41
+Region,South,2015,6133,682,11.12,10.36,11.93,49
+Region,Southeast,2015,10116,658,6.5,6.04,7.0,100
+Region,Center-West,2016,1494,133,8.9,7.56,10.45,16
+Region,North,2016,644,50,7.76,5.94,10.09,9
+Region,Northeast,2016,3675,836,22.75,21.42,24.13,40
+Region,South,2016,6389,588,9.2,8.52,9.94,49
+Region,Southeast,2016,9880,602,6.09,5.64,6.58,100
+Region,Center-West,2017,1348,113,8.38,7.02,9.98,16
+Region,North,2017,689,51,7.4,5.67,9.6,9
+Region,Northeast,2017,3458,684,19.78,18.49,21.14,38
+Region,South,2017,6441,500,7.76,7.13,8.44,50
+Region,Southeast,2017,9492,543,5.72,5.27,6.21,102
+Region,Center-West,2018,1360,137,10.07,8.58,11.79,17
+Region,North,2018,728,58,7.97,6.21,10.16,9
+Region,Northeast,2018,3571,622,17.42,16.21,18.7,37
+Region,South,2018,6555,418,6.38,5.81,6.99,52
+Region,Southeast,2018,8551,545,6.37,5.88,6.91,101
+Region,Center-West,2019,1312,98,7.47,6.17,9.02,16
+Region,North,2019,782,70,8.95,7.15,11.16,9
+Region,Northeast,2019,3583,752,20.99,19.69,22.35,35
+Region,South,2019,6694,368,5.5,4.98,6.07,51
+Region,Southeast,2019,8734,545,6.24,5.75,6.77,103
+Region,Center-West,2020,1000,82,8.2,6.66,10.06,13
+Region,North,2020,655,52,7.94,6.11,10.26,9
+Region,Northeast,2020,2820,806,28.58,26.94,30.28,36
+Region,South,2020,5094,256,5.03,4.46,5.66,49
+Region,Southeast,2020,6623,355,5.36,4.84,5.93,102
+Region,Center-West,2021,995,58,5.83,4.54,7.46,13
+Region,North,2021,766,65,8.49,6.71,10.67,9
+Region,Northeast,2021,3064,939,30.65,29.04,32.3,34
+Region,South,2021,4504,279,6.19,5.53,6.94,50
+Region,Southeast,2021,7085,403,5.69,5.17,6.25,101
+Region,Center-West,2022,1082,32,2.96,2.1,4.15,13
+Region,North,2022,860,65,7.56,5.97,9.52,8
+Region,Northeast,2022,3463,1058,30.55,29.04,32.11,36
+Region,South,2022,5531,331,5.98,5.39,6.64,51
+Region,Southeast,2022,8381,378,4.51,4.09,4.98,102
+Region,Center-West,2023,1222,27,2.21,1.52,3.2,13
+Region,North,2023,1073,94,8.76,7.21,10.6,8
+Region,Northeast,2023,3377,1125,33.31,31.74,34.92,37
+Region,South,2023,5454,291,5.34,4.77,5.96,51
+Region,Southeast,2023,9512,487,5.12,4.69,5.58,103
+Region,Center-West,2024,1230,41,3.33,2.47,4.49,15
+Region,North,2024,1146,103,8.99,7.47,10.78,8
+Region,Northeast,2024,3693,1487,40.27,38.69,41.86,36
+Region,South,2024,5904,338,5.72,5.16,6.35,55
+Region,Southeast,2024,10116,729,7.21,6.72,7.73,107
+Region,Center-West,2025,1414,53,3.75,2.88,4.87,15
+Region,North,2025,1233,128,10.38,8.8,12.21,9
+Region,Northeast,2025,4193,1516,36.16,34.71,37.62,41
+Region,South,2025,6386,441,6.91,6.31,7.55,58
+Region,Southeast,2025,10303,636,6.17,5.72,6.65,109
+Legal status,Nonprofit/philanthropic,2003,15224,1356,8.91,8.46,9.37,91
+Legal status,Private for-profit,2003,2125,311,14.64,13.2,16.2,24
+Legal status,Public,2003,1772,177,9.99,8.68,11.47,24
+Legal status,Unknown,2003,1238,125,10.1,8.54,11.9,22
+Legal status,Nonprofit/philanthropic,2004,15040,1604,10.66,10.18,11.17,96
+Legal status,Private for-profit,2004,2153,351,16.3,14.8,17.92,24
+Legal status,Public,2004,1929,172,8.92,7.73,10.27,27
+Legal status,Unknown,2004,792,57,7.2,5.6,9.21,20
+Legal status,Nonprofit/philanthropic,2005,15823,1727,10.91,10.44,11.41,101
+Legal status,Private for-profit,2005,2118,376,17.75,16.18,19.44,24
+Legal status,Public,2005,2056,196,9.53,8.34,10.88,29
+Legal status,Unknown,2005,617,46,7.46,5.64,9.8,14
+Legal status,Nonprofit/philanthropic,2006,16010,1588,9.92,9.47,10.39,109
+Legal status,Private for-profit,2006,2262,342,15.12,13.7,16.65,27
+Legal status,Public,2006,2270,291,12.82,11.51,14.26,34
+Legal status,Unknown,2006,378,59,15.61,12.3,19.61,12
+Legal status,Nonprofit/philanthropic,2007,16230,1501,9.25,8.81,9.7,110
+Legal status,Private for-profit,2007,2141,250,11.68,10.38,13.11,26
+Legal status,Public,2007,2780,378,13.6,12.37,14.92,35
+Legal status,Unknown,2007,202,22,10.89,7.3,15.94,7
+Legal status,Nonprofit/philanthropic,2008,16024,1411,8.81,8.38,9.25,117
+Legal status,Private for-profit,2008,2317,289,12.47,11.19,13.88,30
+Legal status,Public,2008,2223,305,13.72,12.35,15.21,36
+Legal status,Unknown,2008,194,0,0.0,0.0,1.94,4
+Legal status,Nonprofit/philanthropic,2009,16380,1470,8.97,8.55,9.42,119
+Legal status,Private for-profit,2009,2444,376,15.38,14.01,16.87,29
+Legal status,Public,2009,2561,431,16.83,15.43,18.33,40
+Legal status,Unknown,2009,166,2,1.2,0.33,4.29,4
+Legal status,Nonprofit/philanthropic,2010,16228,1509,9.3,8.86,9.76,124
+Legal status,Private for-profit,2010,2414,365,15.12,13.75,16.6,33
+Legal status,Public,2010,3018,426,14.12,12.92,15.4,39
+Legal status,Unknown,2010,9,0,0.0,0.0,29.92,3
+Legal status,Nonprofit/philanthropic,2011,17291,1678,9.7,9.27,10.15,128
+Legal status,Private for-profit,2011,2939,500,17.01,15.7,18.41,33
+Legal status,Public,2011,2879,270,9.38,8.37,10.5,38
+Legal status,Unknown,2011,16,0,0.0,0.0,19.36,1
+Legal status,Nonprofit/philanthropic,2012,17511,1549,8.85,8.43,9.28,130
+Legal status,Private for-profit,2012,3094,470,15.19,13.97,16.5,35
+Legal status,Public,2012,2994,308,10.29,9.25,11.43,42
+Legal status,Nonprofit/philanthropic,2013,17552,1580,9.0,8.59,9.43,135
+Legal status,Private for-profit,2013,2963,514,17.35,16.03,18.75,33
+Legal status,Public,2013,2866,274,9.56,8.54,10.69,41
+Legal status,Nonprofit/philanthropic,2014,17461,1353,7.75,7.36,8.15,139
+Legal status,Private for-profit,2014,2669,533,19.97,18.5,21.53,34
+Legal status,Public,2014,2784,235,8.44,7.46,9.53,43
+Legal status,Nonprofit/philanthropic,2015,16919,1527,9.03,8.6,9.47,140
+Legal status,Private for-profit,2015,2735,544,19.89,18.44,21.43,32
+Legal status,Public,2015,2710,311,11.48,10.33,12.73,44
+Legal status,Nonprofit/philanthropic,2016,16641,1444,8.68,8.26,9.11,143
+Legal status,Private for-profit,2016,2807,447,15.92,14.62,17.32,31
+Legal status,Public,2016,2634,318,12.07,10.88,13.37,40
+Legal status,Nonprofit/philanthropic,2017,16156,1189,7.36,6.97,7.77,143
+Legal status,Private for-profit,2017,2561,321,12.53,11.31,13.87,30
+Legal status,Public,2017,2711,381,14.05,12.8,15.41,42
+Legal status,Nonprofit/philanthropic,2018,15276,1009,6.61,6.22,7.01,147
+Legal status,Private for-profit,2018,2555,308,12.05,10.85,13.37,28
+Legal status,Public,2018,2934,463,15.78,14.51,17.14,41
+Legal status,Nonprofit/philanthropic,2019,15597,984,6.31,5.94,6.7,145
+Legal status,Private for-profit,2019,2445,406,16.61,15.18,18.13,27
+Legal status,Public,2019,3063,443,14.46,13.26,15.75,42
+Legal status,Nonprofit/philanthropic,2020,11765,728,6.19,5.77,6.64,145
+Legal status,Private for-profit,2020,2076,498,23.99,22.2,25.87,23
+Legal status,Public,2020,2351,325,13.82,12.49,15.28,41
+Legal status,Nonprofit/philanthropic,2021,11623,868,7.47,7.0,7.96,146
+Legal status,Private for-profit,2021,2105,549,26.08,24.25,28.0,20
+Legal status,Public,2021,2686,327,12.17,10.99,13.47,41
+Legal status,Nonprofit/philanthropic,2022,13835,826,5.97,5.59,6.38,147
+Legal status,Private for-profit,2022,2397,644,26.87,25.13,28.68,20
+Legal status,Public,2022,3085,394,12.77,11.64,14.0,43
+Legal status,Nonprofit/philanthropic,2023,14863,888,5.97,5.6,6.37,148
+Legal status,Private for-profit,2023,2034,615,30.24,28.28,32.27,18
+Legal status,Public,2023,3741,521,13.93,12.85,15.07,46
+Legal status,Nonprofit/philanthropic,2024,15775,1274,8.08,7.66,8.51,155
+Legal status,Private for-profit,2024,2079,713,34.3,32.29,36.36,18
+Legal status,Public,2024,4235,711,16.79,15.69,17.94,48
+Legal status,Nonprofit/philanthropic,2025,16931,1426,8.42,8.01,8.85,157
+Legal status,Private for-profit,2025,2223,733,32.97,31.05,34.96,19
+Legal status,Public,2025,4375,615,14.06,13.06,15.12,56

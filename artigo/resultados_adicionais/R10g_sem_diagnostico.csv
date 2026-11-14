@@ -1,0 +1,9 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi
+Patient level — With principal diagnosis (primary),off,0.5888,0.5082,0.6821,0.0,486080,307,28242,-2.3622,-2.9821,-1.7423
+"Patient level, hospital FE — With principal diagnosis (primary)",off,0.5829,0.5296,0.6415,0.0,485868,292,28242,-2.3683,-2.8731,-1.8635
+Between hospitals — With principal diagnosis (primary),e10,0.9649,0.9339,0.9968,0.0315,486011,302,28228,-0.1884,-0.3622,-0.0145
+Within hospitals — With principal diagnosis (primary),e10,1.0036,0.9829,1.0248,0.7335,485804,292,28228,0.019,-0.0904,0.1285
+Patient level — Without principal diagnosis,off,0.5806,0.4987,0.676,0.0,486080,307,28242,-2.4163,-3.0673,-1.7653
+"Patient level, hospital FE — Without principal diagnosis",off,0.5757,0.5221,0.6349,0.0,485868,292,28242,-2.415,-2.9158,-1.9142
+Between hospitals — Without principal diagnosis,e10,0.9626,0.9297,0.9967,0.0319,486011,302,28228,-0.2006,-0.3857,-0.0154
+Within hospitals — Without principal diagnosis,e10,1.0019,0.9819,1.0223,0.8541,485804,292,28228,0.0099,-0.0959,0.1157

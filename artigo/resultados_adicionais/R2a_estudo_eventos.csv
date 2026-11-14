@@ -1,0 +1,31 @@
+versao,tempo_relativo,coef_pp,lo,hi
+Signed (per +10 pp change),-5,-0.0416,-0.2561,0.173
+Signed (per +10 pp change),-4,-0.0941,-0.358,0.1698
+Signed (per +10 pp change),-3,0.192,-0.1478,0.5319
+Signed (per +10 pp change),-2,-0.031,-0.2268,0.1649
+Signed (per +10 pp change),0,0.0842,-0.1292,0.2975
+Signed (per +10 pp change),1,0.0886,-0.2061,0.3834
+Signed (per +10 pp change),2,-0.1668,-0.4297,0.0961
+Signed (per +10 pp change),3,0.0607,-0.2045,0.326
+Signed (per +10 pp change),4,0.1234,-0.1882,0.4349
+Signed (per +10 pp change),5,0.0461,-0.1943,0.2865
+Increases only (per event),-5,-0.2673,-1.4496,0.9151
+Increases only (per event),-4,-0.74,-2.4751,0.9951
+Increases only (per event),-3,0.4939,-1.4371,2.4249
+Increases only (per event),-2,-0.7478,-1.7751,0.2795
+Increases only (per event),0,0.1154,-1.0063,1.2371
+Increases only (per event),1,0.5047,-0.7475,1.757
+Increases only (per event),2,-0.9939,-2.167,0.1793
+Increases only (per event),3,-0.1124,-1.3712,1.1465
+Increases only (per event),4,0.3106,-1.3987,2.02
+Increases only (per event),5,0.2528,-1.1187,1.6243
+Decreases only (per event),-5,0.2027,-1.2489,1.6542
+Decreases only (per event),-4,0.3188,-0.7174,1.355
+Decreases only (per event),-3,-0.8028,-1.5254,-0.0801
+Decreases only (per event),-2,-0.8809,-1.859,0.0972
+Decreases only (per event),0,-0.0014,-1.0413,1.0385
+Decreases only (per event),1,-0.3549,-1.4342,0.7244
+Decreases only (per event),2,-0.0688,-1.329,1.1913
+Decreases only (per event),3,-0.5542,-1.6517,0.5432
+Decreases only (per event),4,-0.6025,-1.7154,0.5103
+Decreases only (per event),5,-0.1215,-0.9914,0.7485

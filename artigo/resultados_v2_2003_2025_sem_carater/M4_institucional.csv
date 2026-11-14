@@ -1,0 +1,11 @@
+modelo,termo,or,lo,hi,p,beta,se,p_boot,or_lo_boot,or_hi_boot,dr_pp,dr_lo,dr_hi,aih,hospitais
+"Institutional, continuous (+10 pp), no hospital FE [PRIMARY]",+10 pp,0.9649,0.9339,0.9968,0.0315,-0.0358,0.0166,0.0303,0.9295,0.9964,-0.1884,-0.3622,-0.0145,486011.0,302.0
+"Institutional, categories vs 0%, no hospital FE",>0-5%,0.8303,0.7367,0.9358,0.0023,-0.1859,0.061,,,,-1.0399,-1.7136,-0.3661,98039.0,180.0
+"Institutional, categories vs 0%, no hospital FE",>5-15%,0.7,0.5793,0.8459,0.0002,-0.3566,0.0966,,,,-1.8602,-2.8014,-0.9189,105455.0,150.0
+"Institutional, categories vs 0%, no hospital FE",>15-30%,0.8116,0.6828,0.9648,0.018,-0.2087,0.0882,,,,-1.1565,-2.1022,-0.2109,30244.0,99.0
+"Institutional, categories vs 0%, no hospital FE",>30%,0.7791,0.6499,0.9338,0.0069,-0.2497,0.0925,,,,-1.3604,-2.3335,-0.3873,54635.0,84.0
+"Institutional, continuous (+10 pp), hospital FE [SENSITIVITY]",+10 pp,1.0036,0.9829,1.0248,0.7335,0.0036,0.0106,,,,0.019,-0.0904,0.1285,485804.0,292.0
+"Institutional, categories vs 0%, hospital FE",>0-5%,0.9502,0.8896,1.0148,0.1282,-0.0511,0.0336,,,,,,,,
+"Institutional, categories vs 0%, hospital FE",>5-15%,1.0413,0.9332,1.1619,0.4691,0.0405,0.0559,,,,,,,,
+"Institutional, categories vs 0%, hospital FE",>15-30%,1.0362,0.9216,1.165,0.5523,0.0355,0.0598,,,,,,,,
+"Institutional, categories vs 0%, hospital FE",>30%,1.0319,0.9073,1.1736,0.6327,0.0314,0.0657,,,,,,,,

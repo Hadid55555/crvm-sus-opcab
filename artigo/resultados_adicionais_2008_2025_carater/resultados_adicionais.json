@@ -1,0 +1,207 @@
+{
+ "configuracao": {
+  "janela": "2008–2025",
+  "carater": true,
+  "casemix": "cr(idade, df=4, constraints='center') + fem + urg + C(diag, Treatment('I25 chronic IHD'))",
+  "hospital": "C(reg, Treatment('Southeast')) + C(natj, Treatment('Nonprofit/philanthropic'))",
+  "boot": 9999
+ },
+ "fluxo": {
+  "registros_RD_ano_internacao_2008_2025": 382953,
+  "menores_18": 33,
+  "aih_duplicadas": 0,
+  "longa_permanencia_ident5": 0,
+  "aih_reapresentada_excluida": 0,
+  "adultos_analisados": 382920
+ },
+ "eb_tau2_intra_hospital": 0.007689298261262695,
+ "eb_lambda_mediana": 0.9718626091733598,
+ "hospitais_primeira_crvm_em_2000_censurados": 121,
+ "confiabilidade": [
+  {
+   "hospital_anos_min_crvm": 2,
+   "hospital_anos": 3706,
+   "hospitais": 266,
+   "var_intra_observada_pp2": 81.4988,
+   "var_binomial_esperada_pp2": 4.6824,
+   "confiabilidade_ponderada": 0.9425,
+   "confiabilidade_nao_ponderada": 0.8745
+  },
+  {
+   "hospital_anos_min_crvm": 10,
+   "hospital_anos": 3473,
+   "hospitais": 259,
+   "var_intra_observada_pp2": 81.0996,
+   "var_binomial_esperada_pp2": 4.4391,
+   "confiabilidade_ponderada": 0.9453,
+   "confiabilidade_nao_ponderada": 0.9179
+  },
+  {
+   "hospital_anos_min_crvm": 30,
+   "hospital_anos": 2993,
+   "hospitais": 233,
+   "var_intra_observada_pp2": 79.0416,
+   "var_binomial_esperada_pp2": 3.9871,
+   "confiabilidade_ponderada": 0.9496,
+   "confiabilidade_nao_ponderada": 0.9362
+  },
+  {
+   "hospital_anos_min_crvm": 50,
+   "hospital_anos": 2422,
+   "hospitais": 211,
+   "var_intra_observada_pp2": 77.3465,
+   "var_binomial_esperada_pp2": 3.5334,
+   "confiabilidade_ponderada": 0.9543,
+   "confiabilidade_nao_ponderada": 0.9466
+  }
+ ],
+ "eventos_n": 57,
+ "eventos_aumento_queda": [
+  29,
+  28
+ ],
+ "evento_Signed (per +10 pp change)": {
+  "pretendencia_chi2": 7.868981051549836,
+  "gl": 3,
+  "p_pretendencia": 0.04879851863360739,
+  "media_pos_0a3_pp": -0.1137802164640078,
+  "lo": -0.3224973835465289,
+  "hi": 0.09493695061851336,
+  "hospitais_evento": 57,
+  "aih": 382920,
+  "esperado_pp_se_individual_causal": -0.22799999999999998
+ },
+ "evento_Increases only (per event)": {
+  "pretendencia_chi2": 7.60805854716223,
+  "gl": 3,
+  "p_pretendencia": 0.05484601398169255,
+  "media_pos_0a3_pp": -0.6553988752049088,
+  "lo": -1.626843127447582,
+  "hi": 0.3160453770377644,
+  "hospitais_evento": 29,
+  "aih": 332022,
+  "delta_medio_pp": 33.40270237067121,
+  "esperado_pp_se_individual_causal": -0.7615816140513034
+ },
+ "evento_Decreases only (per event)": {
+  "pretendencia_chi2": 8.293667487761624,
+  "gl": 3,
+  "p_pretendencia": 0.04031680278754441,
+  "media_pos_0a3_pp": -0.1495890142393039,
+  "lo": -1.2544353068128498,
+  "hi": 0.9552572783342418,
+  "hospitais_evento": 28,
+  "aih": 333352,
+  "delta_medio_pp": -29.084691965911933,
+  "esperado_pp_se_individual_causal": 0.6631309768227921
+ },
+ "identificadores_n": 25,
+ "identificadores_sentido": {
+  "increase": 12,
+  "decrease": 11,
+  "fluctuating/no trend": 2
+ },
+ "institucional_teste_linearidade_wald": {
+  "chi2": 12.809811019529441,
+  "gl": 4,
+  "p": 0.012243466607191618
+ },
+ "institucional_categorias_wald": {
+  "chi2": 14.21939879088914,
+  "gl": 4,
+  "p": 0.006626764559852808
+ },
+ "institucional_categorias_wald_ajust_volume": {
+  "chi2": 9.153829167506265,
+  "gl": 4,
+  "p": 0.05736741026764592
+ },
+ "volume_wald_Overall": {
+  "chi2": 20.101393666847212,
+  "gl": 4,
+  "p": 0.0004769001845890576
+ },
+ "volume_or_por_duplicacao_Overall": {
+  "or": 0.9173780244816538,
+  "lo": 0.8435290412584133,
+  "hi": 0.9976923124618833,
+  "p": 0.04401412671921577
+ },
+ "volume_wald_On-pump": {
+  "chi2": 20.01273152829133,
+  "gl": 4,
+  "p": 0.0004965174381694708
+ },
+ "volume_or_por_duplicacao_On-pump": {
+  "or": 0.9133878135792428,
+  "lo": 0.8391096351005246,
+  "hi": 0.9942411135526098,
+  "p": 0.03630803181407868
+ },
+ "volume_wald_Off-pump": {
+  "chi2": 4.671441105762164,
+  "gl": 4,
+  "p": 0.322700110011353
+ },
+ "volume_or_por_duplicacao_Off-pump": {
+  "or": 0.952689860913355,
+  "lo": 0.8777465534732933,
+  "hi": 1.0340319395110258,
+  "p": 0.24628483312457716
+ },
+ "selecao_interacao_cat_full": {
+  "chi2": 6.825188580430333,
+  "gl": 3,
+  "p": 0.077683326730287
+ },
+ "selecao_interacao_cat_lag": {
+  "chi2": 9.438986662759941,
+  "gl": 3,
+  "p": 0.023989377202605657
+ },
+ "selecao_interacao_cat_hosp": {
+  "chi2": 4.4058151248216495,
+  "gl": 2,
+  "p": 0.110481459170952
+ },
+ "selecao_interacao_offvol_cat": {
+  "chi2": 6.504000776996595,
+  "gl": 2,
+  "p": 0.038696721879187636
+ },
+ "enxerto_interacao_All hospitals, 2008–2025": {
+  "chi2": 0.9603655252852228,
+  "gl": 1,
+  "p": 0.3270948011415914
+ },
+ "enxerto_interacao_Stable graft-coding hospitals (130), 2008–2025": {
+  "chi2": 0.03506232490346352,
+  "gl": 1,
+  "p": 0.8514651211399853
+ },
+ "morte30_n": 19885,
+ "dias_perm_igual_datas_pct": 100.0,
+ "alta_2024_25": {
+  "pct_2020_2023": 9.899257176720276,
+  "pct_2024_2025": 11.995265026963041,
+  "delta_pp": 2.096007850242765,
+  "top1_pct_da_variacao": 19.55396231329804,
+  "top5_pct_da_variacao": 75.07146975474005,
+  "top10_pct_da_variacao": 111.53274117739743,
+  "hospitais_aumento_>=5pp_(>=20 crvm em cada período)": 19,
+  "hospitais_queda_>=5pp_(>=20 crvm em cada período)": 16
+ },
+ "n_celulas_modelo_principal": 243341,
+ "hospitais_contribuem_FE": 207,
+ "UF_sem_contraste": {
+  "ufs": 8,
+  "pct_aih": 7.753316619659459,
+  "pct_off": 33.22192859733665
+ },
+ "alta_1enxerto_com_CEC": {
+  "pct_2020_23": 10.31233748355716,
+  "pct_2024_25": 13.794649529218352,
+  "top5_pct_da_variacao": 92.18849932677624,
+  "pct_da_variacao_nos_5_da_alta_sem_CEC": 19.06565268656237
+ }
+}

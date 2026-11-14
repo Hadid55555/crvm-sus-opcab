@@ -1,0 +1,71 @@
+{
+ "fed_primeira_competencia": "202305",
+ "fed_primeira_competencia_por_codigo": {
+  "Com CEC, 1 enxerto": "202306",
+  "Com CEC, ≥2 enxertos": "202305",
+  "Sem CEC, 1 enxerto": "202312",
+  "Sem CEC, ≥2 enxertos": "202311"
+ },
+ "fed_pct_aih_2024_2025_por_codigo": {
+  "Com CEC, 1 enxerto": 18.6,
+  "Com CEC, ≥2 enxertos": 5.0,
+  "Sem CEC, 1 enxerto": 1.9,
+  "Sem CEC, ≥2 enxertos": 3.9
+ },
+ "fed_valor_mediano_por_codigo": {
+  "Com CEC, 1 enxerto": 42696.84,
+  "Com CEC, ≥2 enxertos": 14709.05,
+  "Sem CEC, 1 enxerto": 35408.75,
+  "Sem CEC, ≥2 enxertos": 17704.38
+ },
+ "fed_hospitais_com_complemento": 92,
+ "com_cec_1enx_aumento_anual_19_22_para_24_25": 1020.0,
+ "com_cec_1enx_aumento_top5_hosp_pct": 65.26960784313725,
+ "com_cec_1enx_aumento_top10_hosp_pct": 85.80882352941177,
+ "hosp_salto_1enx_on_ge20pp": 16,
+ "hosp_salto_1enx_on_ge10pp": 25,
+ "hosp_analisados_A5": 175,
+ "hosp_codificacao_estavel_abs_lt10pp": 130,
+ "identificacao_2008_2025": {
+  "hospitais": 259,
+  "hospital_anos": 3473,
+  "aih": 381386,
+  "pct_variancia_intra": 20.148923995604424,
+  "pct_variancia_entre": 79.85107600439557,
+  "hosp_sempre_0pct": 55,
+  "aih_hosp_sempre_0pct_pct": 9.740000943925576,
+  "dp_intra_mediano_pp": 2.0202451013516964,
+  "hosp_amplitude_ge5pp": 143,
+  "aih_pct_hosp_amplitude_ge5pp": 62.12105321118237,
+  "hosp_amplitude_ge10pp": 101,
+  "aih_pct_hosp_amplitude_ge10pp": 44.94475413360742,
+  "hosp_amplitude_ge20pp": 74,
+  "aih_pct_hosp_amplitude_ge20pp": 30.16051978835091,
+  "peso_top1_pct": 10.060642896192281,
+  "peso_top5_pct": 36.319028751183694,
+  "peso_top10_pct": 56.19944043917787,
+  "peso_top20_pct": 73.37992838948229,
+  "n_efetivo_hospitais": 24.559907922865637
+ },
+ "identificacao_2008_2022": {
+  "hospitais": 242,
+  "hospital_anos": 2866,
+  "aih": 315470,
+  "pct_variancia_intra": 21.318209629350655,
+  "pct_variancia_entre": 78.68179037064935,
+  "hosp_sempre_0pct": 51,
+  "aih_hosp_sempre_0pct_pct": 14.374742447776335,
+  "dp_intra_mediano_pp": 1.926291044544275,
+  "hosp_amplitude_ge5pp": 130,
+  "aih_pct_hosp_amplitude_ge5pp": 59.52863980727169,
+  "hosp_amplitude_ge10pp": 94,
+  "aih_pct_hosp_amplitude_ge10pp": 44.754176308365295,
+  "hosp_amplitude_ge20pp": 67,
+  "aih_pct_hosp_amplitude_ge20pp": 26.69762576473199,
+  "peso_top1_pct": 9.50047930128218,
+  "peso_top5_pct": 37.871109031605684,
+  "peso_top10_pct": 59.0287696779227,
+  "peso_top20_pct": 75.71027241934499,
+  "n_efetivo_hospitais": 22.820515200252583
+ }
+}

@@ -1,0 +1,15 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi,efeitos_fixos_hospital
+Primary model (reference),e10,0.9628,0.9306,0.9962,0.0294,382865,281,21656,-0.1941,-0.3716,-0.0165,False
++ annual hospital CABG volume (spline),e10,0.9643,0.9328,0.9968,0.0318,382865,281,21656,-0.1864,-0.3587,-0.0141,False
++ years since first CABG (spline),e10,0.9628,0.9302,0.9966,0.0312,382865,281,21656,-0.1943,-0.3741,-0.0144,False
++ volume + years since first CABG,e10,0.9632,0.9317,0.9958,0.0273,382865,281,21656,-0.192,-0.3648,-0.0192,False
+"+ volume + years since first CABG, state (27) instead of region",e10,0.9704,0.9392,1.0026,0.071,382865,281,21656,-0.1536,-0.321,0.0138,False
+Hospital FE + annual volume (spline),e10,0.9974,0.9766,1.0186,0.8073,382681,273,21656,-0.0134,-0.1203,0.0935,True
+Any vs none + dose among users,algum,0.7872,0.6654,0.9315,0.0053,382865,281,21656,,,,False
+Any vs none + dose among users,e10,0.992,0.9582,1.0269,0.6483,382865,281,21656,,,,False
+"Any vs none + dose, + volume + years since first CABG",algum,0.8403,0.7168,0.985,0.0319,382865,281,21656,,,,False
+"Any vs none + dose, + volume + years since first CABG",e10,0.984,0.9518,1.0173,0.3423,382865,281,21656,,,,False
+"Categories vs 0%, + volume + years since first CABG","C(expo_cat, Treatment('0%'))[T.>0-5%]",0.8953,0.7785,1.0297,0.121,382865,281,21656,,,,False
+"Categories vs 0%, + volume + years since first CABG","C(expo_cat, Treatment('0%'))[T.>5-15%]",0.7351,0.579,0.9332,0.0115,382865,281,21656,,,,False
+"Categories vs 0%, + volume + years since first CABG","C(expo_cat, Treatment('0%'))[T.>15-30%]",0.7767,0.6447,0.9357,0.0078,382865,281,21656,,,,False
+"Categories vs 0%, + volume + years since first CABG","C(expo_cat, Treatment('0%'))[T.>30%]",0.8001,0.6556,0.9764,0.0282,382865,281,21656,,,,False

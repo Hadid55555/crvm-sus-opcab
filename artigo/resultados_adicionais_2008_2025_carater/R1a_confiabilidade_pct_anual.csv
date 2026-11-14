@@ -1,0 +1,5 @@
+hospital_anos_min_crvm,hospital_anos,hospitais,var_intra_observada_pp2,var_binomial_esperada_pp2,confiabilidade_ponderada,confiabilidade_nao_ponderada
+2,3706,266,81.4988,4.6824,0.9425,0.8745
+10,3473,259,81.0996,4.4391,0.9453,0.9179
+30,2993,233,79.0416,3.9871,0.9496,0.9362
+50,2422,211,77.3465,3.5334,0.9543,0.9466

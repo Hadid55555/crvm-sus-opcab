@@ -1,0 +1,61 @@
+ano,sistema,pct_sem_cec_ajustada,mort_ajustada,recorte
+2011,SUS,10.28,5.97,Todos os hospitais
+2012,SUS,9.66,5.92,Todos os hospitais
+2013,SUS,10.1,6.22,Todos os hospitais
+2014,SUS,9.19,5.97,Todos os hospitais
+2015,SUS,10.55,6.02,Todos os hospitais
+2016,SUS,9.91,5.51,Todos os hospitais
+2017,SUS,8.81,5.51,Todos os hospitais
+2018,SUS,8.69,5.37,Todos os hospitais
+2019,SUS,8.88,5.17,Todos os hospitais
+2020,SUS,9.86,6.41,Todos os hospitais
+2021,SUS,10.87,5.97,Todos os hospitais
+2022,SUS,9.91,5.28,Todos os hospitais
+2023,SUS,10.08,5.39,Todos os hospitais
+2024,SUS,12.54,5.44,Todos os hospitais
+2025,SUS,12.13,5.41,Todos os hospitais
+2011,Fora do SUS,14.02,4.31,Todos os hospitais
+2012,Fora do SUS,16.38,4.42,Todos os hospitais
+2013,Fora do SUS,17.03,4.3,Todos os hospitais
+2014,Fora do SUS,15.82,4.48,Todos os hospitais
+2015,Fora do SUS,14.95,3.89,Todos os hospitais
+2016,Fora do SUS,14.46,3.94,Todos os hospitais
+2017,Fora do SUS,15.19,5.43,Todos os hospitais
+2018,Fora do SUS,18.17,4.51,Todos os hospitais
+2019,Fora do SUS,17.21,3.78,Todos os hospitais
+2020,Fora do SUS,22.75,6.18,Todos os hospitais
+2021,Fora do SUS,18.99,4.48,Todos os hospitais
+2022,Fora do SUS,18.39,4.43,Todos os hospitais
+2023,Fora do SUS,15.44,3.81,Todos os hospitais
+2024,Fora do SUS,17.12,2.72,Todos os hospitais
+2025,Fora do SUS,15.43,5.25,Todos os hospitais
+2011,SUS,9.33,5.97,Painel estável (≥10 de 15 anos)
+2012,SUS,8.91,5.88,Painel estável (≥10 de 15 anos)
+2013,SUS,9.42,6.2,Painel estável (≥10 de 15 anos)
+2014,SUS,8.46,5.96,Painel estável (≥10 de 15 anos)
+2015,SUS,9.96,6.02,Painel estável (≥10 de 15 anos)
+2016,SUS,9.4,5.44,Painel estável (≥10 de 15 anos)
+2017,SUS,8.76,5.46,Painel estável (≥10 de 15 anos)
+2018,SUS,8.79,5.31,Painel estável (≥10 de 15 anos)
+2019,SUS,8.95,5.11,Painel estável (≥10 de 15 anos)
+2020,SUS,9.9,6.34,Painel estável (≥10 de 15 anos)
+2021,SUS,10.9,5.98,Painel estável (≥10 de 15 anos)
+2022,SUS,9.99,5.22,Painel estável (≥10 de 15 anos)
+2023,SUS,9.88,5.46,Painel estável (≥10 de 15 anos)
+2024,SUS,12.67,5.46,Painel estável (≥10 de 15 anos)
+2025,SUS,12.17,5.42,Painel estável (≥10 de 15 anos)
+2011,Fora do SUS,12.59,4.48,Painel estável (≥10 de 15 anos)
+2012,Fora do SUS,14.62,4.33,Painel estável (≥10 de 15 anos)
+2013,Fora do SUS,16.78,4.03,Painel estável (≥10 de 15 anos)
+2014,Fora do SUS,17.75,5.66,Painel estável (≥10 de 15 anos)
+2015,Fora do SUS,14.95,3.79,Painel estável (≥10 de 15 anos)
+2016,Fora do SUS,13.15,3.93,Painel estável (≥10 de 15 anos)
+2017,Fora do SUS,13.62,5.18,Painel estável (≥10 de 15 anos)
+2018,Fora do SUS,16.21,4.3,Painel estável (≥10 de 15 anos)
+2019,Fora do SUS,15.53,3.8,Painel estável (≥10 de 15 anos)
+2020,Fora do SUS,21.29,6.01,Painel estável (≥10 de 15 anos)
+2021,Fora do SUS,16.73,4.34,Painel estável (≥10 de 15 anos)
+2022,Fora do SUS,16.76,4.42,Painel estável (≥10 de 15 anos)
+2023,Fora do SUS,14.93,3.66,Painel estável (≥10 de 15 anos)
+2024,Fora do SUS,15.87,2.4,Painel estável (≥10 de 15 anos)
+2025,Fora do SUS,15.6,5.02,Painel estável (≥10 de 15 anos)

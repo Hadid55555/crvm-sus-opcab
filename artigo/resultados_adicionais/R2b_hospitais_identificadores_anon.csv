@@ -1,0 +1,28 @@
+hospital,peso_identificacao_pct,regiao,natureza,crvm_total,pct_off_total,anos_ativos,primeiro_ano,ultimo_ano,crvm_por_ano,pct_min_ano(≥10),pct_max_ano(≥10),inclinacao_pp_por_ano,sentido,evento_sustentado_>=10pp,delta_evento_pp
+H01,8.81,Northeast,Nonprofit/philanthropic,2223,53.71,23,2003,2025,96.65,0.0,95.72,5.84,increase,yes,50.31
+H02,8.38,South,Nonprofit/philanthropic,7625,19.57,23,2003,2025,331.52,0.0,62.16,2.2,increase,yes,46.15
+H03,6.69,South,Nonprofit/philanthropic,3520,31.51,23,2003,2025,153.04,0.0,76.0,-4.26,decrease,yes,-36.11
+H04,5.51,Northeast,Nonprofit/philanthropic,2341,61.81,23,2003,2025,101.78,0.0,99.47,4.27,increase,yes,51.5
+H05,4.66,Southeast,Public,2598,29.06,22,2003,2025,118.09,0.0,84.94,0.06,fluctuating/no trend,yes,51.11
+H06,4.39,Northeast,Private for-profit,2113,45.39,23,2003,2025,91.87,0.0,89.62,2.5,increase,yes,46.82
+H07,4.16,Northeast,Private for-profit,3171,81.52,23,2003,2025,137.87,1.77,98.16,1.17,increase,yes,-82.68
+H08,4.0,Northeast,Private for-profit,2791,51.31,16,2010,2025,174.44,0.0,83.41,5.01,increase,yes,30.5
+H09,3.19,Center-West,Nonprofit/philanthropic,4421,43.7,23,2003,2025,192.22,7.38,71.68,-2.57,decrease,yes,-18.22
+H10,2.95,Northeast,Nonprofit/philanthropic,8418,21.82,23,2003,2025,366.0,9.77,100.0,-1.04,decrease,yes,77.45
+H11,2.78,South,Nonprofit/philanthropic,2378,20.35,23,2003,2025,103.39,0.0,69.0,-1.07,decrease,yes,-50.43
+H12,2.58,Southeast,Nonprofit/philanthropic,12363,21.22,23,2003,2025,537.52,7.5,39.57,-1.23,decrease,yes,-17.0
+H13,2.02,South,Nonprofit/philanthropic,2749,51.91,23,2003,2025,119.52,6.25,77.88,0.14,fluctuating/no trend,yes,39.79
+H14,1.72,South,Nonprofit/philanthropic,941,81.93,20,2006,2025,47.05,0.0,100.0,3.87,increase,yes,37.6
+H15,1.68,South,Nonprofit/philanthropic,2187,21.35,23,2003,2025,95.09,0.0,54.26,-0.09,fluctuating/no trend,yes,-37.61
+H16,1.67,Northeast,Public,817,60.59,22,2004,2025,37.14,3.57,97.22,4.05,increase,yes,48.77
+H17,1.65,South,Nonprofit/philanthropic,3201,8.4,23,2003,2025,139.17,0.0,63.7,0.11,fluctuating/no trend,yes,-42.48
+H18,1.25,South,Private for-profit,736,60.19,10,2003,2012,73.6,0.0,86.61,7.93,increase,yes,61.16
+H19,1.23,Northeast,Public,5221,38.1,23,2003,2025,227.0,20.08,56.65,1.25,increase,yes,13.58
+H20,1.21,Northeast,Private for-profit,1748,89.42,15,2003,2017,116.53,36.13,100.0,2.92,increase,yes,32.04
+H21,1.19,Southeast,Nonprofit/philanthropic,3949,13.78,23,2003,2025,171.7,0.0,42.36,0.77,increase,yes,-33.42
+H22,1.18,Southeast,Nonprofit/philanthropic,2088,23.37,23,2003,2025,90.78,0.0,51.64,-0.86,decrease,yes,34.97
+H23,1.08,Southeast,Nonprofit/philanthropic,1587,24.57,23,2003,2025,69.0,0.0,68.25,0.23,fluctuating/no trend,yes,63.2
+H24,1.04,Northeast,Nonprofit/philanthropic,649,27.89,9,2003,2025,72.11,0.0,70.15,2.62,increase,yes,49.74
+H25,1.03,Northeast,Nonprofit/philanthropic,2037,11.19,14,2012,2025,145.5,0.0,40.41,0.36,fluctuating/no trend,yes,35.02
+H26,1.02,Southeast,Public,1942,82.49,23,2003,2025,84.43,44.44,98.88,1.79,increase,yes,-24.34
+H27,0.93,South,Nonprofit/philanthropic,1440,11.04,23,2003,2025,62.61,0.0,53.97,-1.59,decrease,yes,43.15

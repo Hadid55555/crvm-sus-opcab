@@ -1,0 +1,28 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi,amostra,efeitos_fixos_hospital,p_boot,or_lo_boot,or_hi_boot,esperado_dr_pp_se_OR_individual_causal
+Same-year % including index patient (no LOO),e10,0.9637,0.9327,0.9957,0.0266,486080,307,28242,-0.1945,-0.3688,-0.0202,Own sample,False,,,,-0.236
+Same-year % including index patient (no LOO),e10,0.9991,0.9784,1.0204,0.936,485868,292,28242,-0.0045,-0.1148,0.1058,Own sample,True,,,,-0.236
+Prior-year % (predetermined; prior year ≥10 CABG),e10,0.9622,0.9298,0.9957,0.0275,457750,281,26286,-0.2006,-0.3817,-0.0195,Own sample,False,,,,-0.236
+Prior-year % (predetermined; prior year ≥10 CABG),e10,1.0047,0.9785,1.0317,0.7276,457675,274,26286,0.0245,-0.1137,0.1626,Own sample,True,,,,-0.236
+Trailing 3-year % (t−1 to t−3; predetermined),e10,0.9576,0.9231,0.9933,0.0204,460180,281,26511,-0.2259,-0.4196,-0.0321,Own sample,False,,,,-0.236
+Trailing 3-year % (t−1 to t−3; predetermined),e10,1.0056,0.9741,1.0381,0.7307,460109,276,26511,0.0291,-0.1374,0.1956,Own sample,True,,,,-0.236
+Same-year % shrunk to hospital mean (empirical Bayes),e10,0.962,0.9289,0.9964,0.0308,486080,307,28242,-0.2035,-0.3904,-0.0166,Own sample,False,,,,-0.236
+Same-year % shrunk to hospital mean (empirical Bayes),e10,1.0038,0.9791,1.029,0.7664,485868,292,28242,0.0198,-0.1107,0.1503,Own sample,True,,,,-0.236
+Same-year leave-one-out % (original),e10,0.9639,0.9322,0.9966,0.0306,457740,280,26285,-0.1918,-0.3682,-0.0153,Common sample (prior-year % available),False,,,,-0.236
+Same-year leave-one-out % (original),e10,1.0038,0.9811,1.0271,0.7434,457666,274,26285,0.0199,-0.0996,0.1394,Common sample (prior-year % available),True,0.7469,0.9788,1.0289,-0.236
+Same-year % including index patient (no LOO),e10,0.963,0.9313,0.9957,0.0271,457740,280,26285,-0.1963,-0.3731,-0.0195,Common sample (prior-year % available),False,,,,-0.236
+Same-year % including index patient (no LOO),e10,1.0007,0.978,1.024,0.9492,457666,274,26285,0.0039,-0.1153,0.123,Common sample (prior-year % available),True,,,,-0.236
+Prior-year % (predetermined; prior year ≥10 CABG),e10,0.9622,0.9298,0.9957,0.0275,457740,280,26285,-0.2005,-0.3816,-0.0195,Common sample (prior-year % available),False,,,,-0.236
+Prior-year % (predetermined; prior year ≥10 CABG),e10,1.0047,0.9785,1.0317,0.7277,457666,274,26285,0.0245,-0.1137,0.1626,Common sample (prior-year % available),True,0.7364,0.9773,1.0338,-0.236
+Trailing 3-year % (t−1 to t−3; predetermined),e10,0.9572,0.9225,0.9931,0.02,457740,280,26285,-0.2273,-0.4217,-0.0329,Common sample (prior-year % available),False,,,,-0.236
+Trailing 3-year % (t−1 to t−3; predetermined),e10,1.0047,0.9734,1.0371,0.7703,457666,274,26285,0.0245,-0.1409,0.19,Common sample (prior-year % available),True,0.7818,0.9705,1.0395,-0.236
+Same-year % shrunk to hospital mean (empirical Bayes),e10,0.9605,0.9265,0.9957,0.0282,457740,280,26285,-0.2096,-0.3995,-0.0198,Common sample (prior-year % available),False,,,,-0.236
+Same-year % shrunk to hospital mean (empirical Bayes),e10,1.0028,0.9755,1.0309,0.8422,457666,274,26285,0.0146,-0.1293,0.1584,Common sample (prior-year % available),True,,,,-0.236
+"Same-year leave-one-out %, hospital-years ≥30 CABG",e10,0.9652,0.9331,0.9983,0.0396,473154,263,27248,-0.1852,-0.3639,-0.0065,hospital-years ≥30,False,,,,-0.236
+"Same-year leave-one-out %, hospital-years ≥30 CABG",e10,1.0065,0.9853,1.0281,0.5517,473040,260,27248,0.0337,-0.0771,0.1446,hospital-years ≥30,True,,,,-0.236
+"Prior-year %, hospital-years ≥30 CABG",e10,0.9622,0.9289,0.9966,0.0315,448409,256,25607,-0.1998,-0.3846,-0.015,hospital-years ≥30,False,,,,-0.236
+"Prior-year %, hospital-years ≥30 CABG",e10,1.0056,0.9786,1.0334,0.6854,448378,255,25607,0.0291,-0.1125,0.1708,hospital-years ≥30,True,,,,-0.236
+"Same-year leave-one-out %, hospital-years ≥50 CABG",e10,0.9645,0.9308,0.9994,0.0463,445195,240,25235,-0.1859,-0.3717,-0.0001,hospital-years ≥50,False,,,,-0.236
+"Same-year leave-one-out %, hospital-years ≥50 CABG",e10,1.0074,0.9852,1.03,0.5171,445144,239,25235,0.0378,-0.0761,0.1516,hospital-years ≥50,True,,,,-0.236
+"Prior-year %, hospital-years ≥50 CABG",e10,0.9611,0.9265,0.9969,0.0337,423038,234,23798,-0.2024,-0.3929,-0.012,hospital-years ≥50,False,,,,-0.236
+"Prior-year %, hospital-years ≥50 CABG",e10,1.0054,0.9768,1.0349,0.7126,422922,232,23798,0.0277,-0.1203,0.1758,hospital-years ≥50,True,,,,-0.236
+Same-year leave-one-out % (original M4 FE model),e10,1.0036,0.9829,1.0248,0.7335,485804,292,28228,0.019,-0.0904,0.1285,Own sample,True,0.7326,0.9808,1.0262,-0.236

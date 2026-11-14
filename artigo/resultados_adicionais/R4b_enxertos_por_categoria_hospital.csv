@@ -1,0 +1,16 @@
+variavel,categoria,tecnica,n,pct_1enxerto
+Hospital-year OPCAB %,0-5%,Off-pump,1655,62.96
+Hospital-year OPCAB %,0-5%,On-pump,241039,15.1
+Hospital-year OPCAB %,>15-30%,Off-pump,4828,42.42
+Hospital-year OPCAB %,>15-30%,On-pump,18373,19.56
+Hospital-year OPCAB %,>30%,Off-pump,25176,34.67
+Hospital-year OPCAB %,>30%,On-pump,15737,16.22
+Hospital-year OPCAB %,>5-15%,Off-pump,6939,61.26
+Hospital-year OPCAB %,>5-15%,On-pump,69173,14.92
+Hospital OPCAB % 2003–2025,High (≥20%),Off-pump,26276,35.07
+Hospital OPCAB % 2003–2025,High (≥20%),On-pump,36563,15.06
+Hospital OPCAB % 2003–2025,Intermediate (5–<20%),Off-pump,10293,54.1
+Hospital OPCAB % 2003–2025,Intermediate (5–<20%),On-pump,92913,17.85
+Hospital OPCAB % 2003–2025,Low (>0–<5%),Off-pump,2029,63.38
+Hospital OPCAB % 2003–2025,Low (>0–<5%),On-pump,184834,15.52
+Hospital OPCAB % 2003–2025,None (0%),On-pump,30012,6.97

@@ -1,0 +1,14 @@
+medida,valor
+hospitais_>=2_anos,259.0
+amplitude_mediana_pp,6.25
+amplitude_p75,22.649572649572647
+amplitude_p90,53.927986906710316
+hosp_amplitude_>=5pp,143.0
+hosp_amplitude_>=10pp,101.0
+hosp_amplitude_>=20pp,74.0
+pares_anos_consecutivos,3153.0
+corr_pearson_anos_consecutivos,0.938294453434634
+corr_spearman_anos_consecutivos,0.8268492486058306
+mudanca_absoluta_mediana_pp,0.4148885727833097
+pct_pares_mudanca_<5pp,81.1290834126229
+pct_variancia_dentro_hospital,20.138054571531537

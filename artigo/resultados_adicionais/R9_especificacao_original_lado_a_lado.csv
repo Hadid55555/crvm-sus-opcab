@@ -1,0 +1,14 @@
+medida,Original pre-specified: 2008–2025 with admission type,2008–2025 without admission type,Main: 2003–2025 without admission type
+Adult admissions; hospitals,"382,920; 286","382,920; 286","486,080; 307"
+Hospital strategy categories vs 0% (>0–5 / >5–15 / >15–30 / >30),0.86 / 0.67 / 0.75 / 0.79,0.84 / 0.65 / 0.75 / 0.79,0.83 / 0.70 / 0.81 / 0.78
+"Hospital strategy with hospital FE, OR per +10 pp",0.992 (0.970–1.015),0.996 (0.973–1.021),1.004 (0.983–1.025)
+"Hospital strategy, OR per +10 pp (primary)",0.963 (0.931–0.996); boot p=0.019,0.964 (0.930–0.998); boot p=0.027,0.965 (0.934–0.997); boot p=0.030
+"Hospital strategy, RD pp per +10 pp",-0.19 (-0.37–-0.02),-0.19 (-0.38–-0.01),-0.19 (-0.36–-0.01)
+"IV prior-year, hospital FE, pp",-0.40 (-1.89–1.09),-0.25 (-1.80–1.30),0.14 (-1.52–1.80)
+"IV prior-year, no FE, pp",-1.87 (-3.59–-0.16),-1.89 (-3.68–-0.10),-1.98 (-3.72–-0.24)
+"MOR (95% CI), year + case mix",18.6 (13.9–25.8),18.6 (13.9–25.7),15.2 (11.7–20.2)
+OPCAB %; crude mortality %,10.08; 5.66,10.08; 5.66,10.19; 5.81
+"Patient level OR, elective only (admission type as coded)",0.545 (0.435–0.683),,
+Patient level RD pp,-2.28 (-2.94–-1.63),-2.28 (-2.96–-1.60),-2.36 (-2.98–-1.74)
+Patient level adjusted OR (primary),0.592 (0.505–0.694),0.593 (0.502–0.699),0.589 (0.508–0.682)
+"Patient level with hospital FE, OR",0.569 (0.514–0.631),0.572 (0.515–0.635),0.583 (0.530–0.641)

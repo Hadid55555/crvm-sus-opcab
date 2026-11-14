@@ -1,0 +1,25 @@
+Characteristic,On-pump,Off-pump,Overall,SMD,"Missing, n"
+"AIH records, n","436,553","49,527","486,080",,
+"Hospitals, n",304,232,307,,
+"Age, years, mean (SD)",62.1 (9.4),62.4 (10.0),62.1 (9.4),0.037,0.0
+"Age ≥70 years, n (%)","99,461 (22.8)","12,633 (25.5)","112,094 (23.1)",0.064,0.0
+"Female, n (%)","136,092 (31.2)","16,864 (34.1)","152,956 (31.5)",0.061,0.0
+"Principal diagnosis: AMI (I21-I22), n (%)","59,986 (13.7)","6,640 (13.4)","66,626 (13.7)",-0.01,0.0
+"Principal diagnosis: Unstable angina (I20.0), n (%)","167,858 (38.5)","15,754 (31.8)","183,612 (37.8)",-0.139,0.0
+"Principal diagnosis: Other angina (I20.1-9), n (%)","34,849 (8.0)","4,495 (9.1)","39,344 (8.1)",0.039,0.0
+"Principal diagnosis: Other acute IHD (I24), n (%)","75,933 (17.4)","9,677 (19.5)","85,610 (17.6)",0.055,0.0
+"Principal diagnosis: I25 chronic IHD, n (%)","92,762 (21.2)","12,551 (25.3)","105,313 (21.7)",0.097,0.0
+"Principal diagnosis: Other codes, n (%)","5,165 (1.2)",410 (0.8),"5,575 (1.1)",-0.036,0.0
+"Region of hospital: North, n (%)","14,652 (3.4)",971 (2.0),"15,623 (3.2)",-0.087,0.0
+"Region of hospital: Northeast, n (%)","61,484 (14.1)","18,168 (36.7)","79,652 (16.4)",0.538,0.0
+"Region of hospital: Southeast, n (%)","211,073 (48.3)","17,597 (35.5)","228,670 (47.0)",-0.262,0.0
+"Region of hospital: South, n (%)","121,674 (27.9)","10,034 (20.3)","131,708 (27.1)",-0.179,0.0
+"Region of hospital: Center-West, n (%)","27,670 (6.3)","2,757 (5.6)","30,427 (6.3)",-0.033,0.0
+"Hospital legal status: Public, n (%)","56,385 (12.9)","8,272 (16.7)","64,657 (13.3)",0.107,0.0
+"Hospital legal status: Nonprofit/philanthropic, n (%)","331,666 (76.0)","30,489 (61.6)","362,155 (74.5)",-0.315,0.0
+"Hospital legal status: Private for-profit, n (%)","45,201 (10.4)","10,455 (21.1)","55,656 (11.4)",0.299,0.0
+"Hospital legal status: Unknown, n (%)","3,301 (0.8)",311 (0.6),"3,612 (0.7)",-0.015,0.0
+"Length of stay, days, median (IQR)",9 (7–15),9 (6–14),9 (7–15),-0.057,0.0
+"ICU days, median (IQR)",3 (2–5),3 (2–5),3 (2–5),-0.044,0.0
+"In-hospital death, n (%)","26,383 (6.0)","1,859 (3.8)","28,242 (5.8)",-0.106,0.0
+"AIH reimbursement, BRL Dec-2025, median (IQR)",21195 (18082–25076),19658 (17116–22569),21021 (17969–24791),-0.312,0.0

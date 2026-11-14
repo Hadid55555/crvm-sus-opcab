@@ -1,0 +1,16 @@
+hospital,n1,off1,n2,off2,contrib_pp,pct1,pct2,partic_crvm1_pct,partic_crvm2_pct,regiao,natureza,pct_da_variacao_nacional
+C01,83.0,43.0,320.0,214.0,0.41,51.807,66.875,0.114,0.701,Northeast,Public,19.554
+C02,43.0,27.0,199.0,177.0,0.351,62.791,88.945,0.059,0.436,South,Nonprofit/philanthropic,16.736
+C03,382.0,359.0,365.0,363.0,0.301,93.979,99.452,0.526,0.8,Northeast,Nonprofit/philanthropic,14.36
+C04,206.0,57.0,808.0,159.0,0.27,27.67,19.678,0.284,1.771,Northeast,Public,12.881
+C05,524.0,9.0,286.0,116.0,0.242,1.718,40.559,0.722,0.627,Southeast,Nonprofit/philanthropic,11.54
+C06,423.0,22.0,495.0,114.0,0.22,5.201,23.03,0.583,1.085,Southeast,Nonprofit/philanthropic,10.476
+C07,581.0,0.0,250.0,82.0,0.18,0.0,32.8,0.801,0.548,Northeast,Nonprofit/philanthropic,8.576
+C08,174.0,80.0,150.0,108.0,0.126,45.977,72.0,0.24,0.329,Southeast,Nonprofit/philanthropic,6.035
+C09,573.0,536.0,414.0,392.0,0.121,93.543,94.686,0.79,0.908,Northeast,Nonprofit/philanthropic,5.755
+C10,960.0,888.0,628.0,612.0,0.118,92.5,97.452,1.323,1.377,Northeast,Private for-profit,5.619
+C11,15.0,15.0,81.0,60.0,0.111,100.0,74.074,0.021,0.178,Southeast,Public,5.289
+C12,151.0,121.0,146.0,121.0,0.098,80.132,82.877,0.208,0.32,Northeast,Public,4.699
+C13,792.0,87.0,511.0,95.0,0.088,10.985,18.591,1.091,1.12,South,Private for-profit,4.215
+C14,625.0,44.0,312.0,64.0,0.08,7.04,20.513,0.861,0.684,Northeast,Private for-profit,3.8
+C15,266.0,2.0,195.0,36.0,0.076,0.752,18.462,0.367,0.427,North,Nonprofit/philanthropic,3.634

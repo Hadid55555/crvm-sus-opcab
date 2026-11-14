@@ -1,0 +1,5 @@
+instrumento,efeitos_fixos_hospital,aih,hospitais,primeira_fase_coef_por_10pp,primeira_fase_F_robusto,iv_dr_pp,iv_lo,iv_hi,mqo_dr_pp,mqo_lo,mqo_hi
+prior-year hospital % off-pump,False,356102,263,0.0942,7211.5515,-1.8733,-3.5899,-0.1568,-2.2621,-2.9851,-1.539
+prior-year hospital % off-pump,True,356102,263,0.0699,433.3154,-0.4023,-1.8942,1.0897,-2.3339,-2.8741,-1.7938
+same-year leave-one-out % (hospital-years ≥10),False,381697,273,0.0989,313879.5031,-1.7704,-3.3536,-0.1871,-2.3101,-3.0259,-1.5944
+same-year leave-one-out % (hospital-years ≥10),True,381697,273,0.0949,13985.1342,-0.3236,-1.45,0.8028,-2.3776,-2.9364,-1.8189

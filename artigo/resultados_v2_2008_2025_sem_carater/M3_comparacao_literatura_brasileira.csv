@@ -1,0 +1,5 @@
+fonte,periodo,dados,n_publicado,mort_publicada_pct,este_estudo,aih,obitos,mort_pct
+"Piegas 2009, Arq Bras Cardiol (PMID 20084319)",2005–2007,"SIH/SUS (TabNet), CRVM isolada, todas as idades, 16 hospitais de muito baixo volume excluídos",63272.0,6.22,sem sobreposição; 2008–2010,63978,3695,5.78
+"Khalil 2021, J Card Surg (PMID 33469979)",2008–2017,"SIH/SUS (TabNet), CRVM isolada, todas as idades, ano de processamento",226697.0,5.7,"2008–2017, adultos, ano de internação",222871,12603,5.65
+"Martins 2026, J Cardiothorac Surg (PMID 42260539)",2008–2024,"SIH/SUS, painel UF-ano (379 observações); resumo reporta mortalidade prevista 6,8% → 5,7% por +1 DP de eficiência de desenvolvimento, não a mortalidade bruta global",,,"2008–2024, adultos",359391,20349,5.66
+"Gomes 2017, BYPASS, Braz J Cardiovasc Surg (PMID 28492786)",registro prospectivo,"17 centros, 83% SUS; mortalidade da CRVM até o 7º dia pós-operatório (não hospitalar total)",,2.6,2008–2025 (não comparável: desfecho diferente),382920,21667,5.66

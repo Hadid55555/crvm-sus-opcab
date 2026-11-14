@@ -1,0 +1,13 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,efeitos_fixos_hospital
+% off-pump (all CABG),pos,1.071,0.9134,1.2558,0.3982,118179,251,12655,False
+% off-pump (all CABG),tpos,1.0063,0.9968,1.0159,0.1943,118179,251,12655,False
+% off-pump (all CABG),pos,1.1727,0.9378,1.4666,0.1625,86970,134,12646,True
+% off-pump (all CABG),tpos,1.0071,0.9905,1.0239,0.4046,86970,134,12646,True
+% 1-graft among on-pump,pos,0.8146,0.6698,0.9907,0.04,105524,248,12280,False
+% 1-graft among on-pump,tpos,1.0285,1.0022,1.0556,0.0337,105524,248,12280,False
+% 1-graft among on-pump,pos,0.6348,0.4461,0.9032,0.0115,102859,218,12070,True
+% 1-graft among on-pump,tpos,1.0495,1.0176,1.0824,0.0022,102859,218,12070,True
+% 1-graft among off-pump,pos,1.0102,0.7332,1.3917,0.9507,12655,137,4768,False
+% 1-graft among off-pump,tpos,0.9876,0.966,1.0096,0.2671,12655,137,4768,False
+% 1-graft among off-pump,pos,0.7044,0.4453,1.1143,0.1343,11073,86,4598,True
+% 1-graft among off-pump,tpos,0.9695,0.9332,1.0072,0.1115,11073,86,4598,True

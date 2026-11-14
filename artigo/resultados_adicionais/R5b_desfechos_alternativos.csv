@@ -1,0 +1,13 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi,estimando,efeitos_fixos_hospital
+"In-hospital death (primary), 2003–2025",off,0.5888,0.5082,0.6821,0.0,486080,307,28242,-2.3622,-2.9821,-1.7423,Patient level,False
+"In-hospital death (primary), 2003–2025",e10,0.9649,0.9339,0.9968,0.0315,486011,302,28228,-0.1884,-0.3622,-0.0145,Hospital strategy (+10 pp),False
+"In-hospital death (primary), 2003–2025",e10,1.0036,0.9829,1.0248,0.7335,485804,292,28228,0.019,-0.0904,0.1285,Hospital strategy (+10 pp),True
+"Death ≤30 days from admission during index stay, 2003–2025",off,0.5706,0.49,0.6645,0.0,486080,307,25851,-2.2772,-2.8494,-1.705,Patient level,False
+"Death ≤30 days from admission during index stay, 2003–2025",e10,0.9604,0.9293,0.9926,0.0165,486011,302,25838,-0.1956,-0.3573,-0.034,Hospital strategy (+10 pp),False
+"Death ≤30 days from admission during index stay, 2003–2025",e10,0.9998,0.9783,1.0218,0.9872,485804,292,25838,-0.0009,-0.1064,0.1046,Hospital strategy (+10 pp),True
+"In-hospital death, 2008–2025",off,0.5925,0.502,0.6994,0.0,382920,286,21667,-2.2799,-2.9603,-1.5995,Patient level,False
+"In-hospital death, 2008–2025",e10,0.9636,0.93,0.9984,0.0406,382865,281,21656,-0.1904,-0.375,-0.0058,Hospital strategy (+10 pp),False
+"In-hospital death, 2008–2025",e10,0.9964,0.9727,1.0207,0.7703,382681,273,21656,-0.0183,-0.1402,0.1037,Hospital strategy (+10 pp),True
+"Death or transfer out (COBRANCA 31), 2008–2025",off,0.6456,0.5178,0.805,0.0001,382920,286,22789,-2.0619,-2.978,-1.1458,Patient level,False
+"Death or transfer out (COBRANCA 31), 2008–2025",e10,0.9757,0.9325,1.0209,0.2864,382865,281,22778,-0.1332,-0.377,0.1106,Hospital strategy (+10 pp),False
+"Death or transfer out (COBRANCA 31), 2008–2025",e10,0.9998,0.9778,1.0223,0.9876,382681,273,22778,-0.0009,-0.12,0.1181,Hospital strategy (+10 pp),True

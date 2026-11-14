@@ -1,0 +1,41 @@
+variavel,grupo,periodo,n,n_off,pct_off
+Overall,Brazil,2008-2013,134083,13727,10.24
+Overall,Brazil,2014-2019,130658,12216,9.35
+Overall,Brazil,2020-2025,118179,12655,10.71
+Region,Center-West,2008-2013,8732,736,8.43
+Region,Center-West,2014-2019,8643,680,7.87
+Region,Center-West,2020-2025,6943,293,4.22
+Region,North,2008-2013,3490,56,1.6
+Region,North,2014-2019,4271,289,6.77
+Region,North,2020-2025,5733,507,8.84
+Region,Northeast,2008-2013,21532,3659,16.99
+Region,Northeast,2014-2019,22294,4511,20.23
+Region,Northeast,2020-2025,20610,6931,33.63
+Region,South,2008-2013,33896,3528,10.41
+Region,South,2014-2019,38294,3182,8.31
+Region,South,2020-2025,32873,1936,5.89
+Region,Southeast,2008-2013,66433,5748,8.65
+Region,Southeast,2014-2019,57156,3554,6.22
+Region,Southeast,2020-2025,52020,2988,5.74
+Legal status,Nonprofit/philanthropic,2008-2013,100986,9197,9.11
+Legal status,Nonprofit/philanthropic,2014-2019,98050,7506,7.66
+Legal status,Nonprofit/philanthropic,2020-2025,84792,6010,7.09
+Legal status,Private for-profit,2008-2013,16171,2514,15.55
+Legal status,Private for-profit,2014-2019,15772,2559,16.22
+Legal status,Private for-profit,2020-2025,12914,3752,29.05
+Legal status,Public,2008-2013,16541,2014,12.18
+Legal status,Public,2014-2019,16836,2151,12.78
+Legal status,Public,2020-2025,20473,2893,14.13
+Legal status,Unknown,2008-2013,385,2,0.52
+Hospital off-pump category (2008–2025),High (≥20%),2008-2013,18523,8112,43.79
+Hospital off-pump category (2008–2025),High (≥20%),2014-2019,16109,7576,47.03
+Hospital off-pump category (2008–2025),High (≥20%),2020-2025,17885,9661,54.02
+Hospital off-pump category (2008–2025),Intermediate (5–<20%),2008-2013,43499,4780,10.99
+Hospital off-pump category (2008–2025),Intermediate (5–<20%),2014-2019,36493,3960,10.85
+Hospital off-pump category (2008–2025),Intermediate (5–<20%),2020-2025,25688,2272,8.84
+Hospital off-pump category (2008–2025),Low (>0–<5%),2008-2013,61679,835,1.35
+Hospital off-pump category (2008–2025),Low (>0–<5%),2014-2019,65674,680,1.04
+Hospital off-pump category (2008–2025),Low (>0–<5%),2020-2025,61074,722,1.18
+Hospital off-pump category (2008–2025),None (0%),2008-2013,10382,0,0.0
+Hospital off-pump category (2008–2025),None (0%),2014-2019,12382,0,0.0
+Hospital off-pump category (2008–2025),None (0%),2020-2025,13532,0,0.0

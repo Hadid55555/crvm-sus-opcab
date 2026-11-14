@@ -1,0 +1,58 @@
+ano_evento,pct_pre,pct_pos,delta_pp,hospital,regiao,natureza,crvm_por_ano,entre_identificadores
+2011,98.46,50.0,-48.46,E04,Northeast,Public,18.44,False
+2017,6.1,37.17,31.07,E44,Northeast,Public,52.8,False
+2011,25.0,2.73,-22.27,E17,Northeast,Nonprofit/philanthropic,107.0,False
+2023,18.7,96.15,77.45,E57,Northeast,Nonprofit/philanthropic,316.72,True
+2010,21.59,49.17,27.59,E41,Southeast,Nonprofit/philanthropic,89.06,True
+2017,3.08,28.57,25.49,E40,Center-West,Private for-profit,42.89,False
+2011,59.89,41.67,-18.22,E19,Center-West,Nonprofit/philanthropic,173.67,True
+2016,2.6,19.5,16.89,E32,Center-West,Public,73.12,False
+2022,18.03,0.0,-18.03,E20,South,Nonprofit/philanthropic,60.28,False
+2011,0.0,46.15,46.15,E51,South,Nonprofit/philanthropic,279.72,True
+2010,33.33,70.93,37.6,E47,South,Nonprofit/philanthropic,48.5,False
+2019,45.89,8.28,-37.61,E08,South,Nonprofit/philanthropic,89.72,True
+2016,56.1,97.8,41.7,E49,North,Nonprofit/philanthropic,55.92,False
+2011,10.09,0.0,-10.09,E28,Northeast,Nonprofit/philanthropic,89.41,False
+2010,18.12,3.18,-14.94,E26,Southeast,Nonprofit/philanthropic,85.5,False
+2015,28.2,11.2,-17.0,E24,Southeast,Nonprofit/philanthropic,505.72,True
+2020,38.12,4.71,-33.42,E10,Southeast,Nonprofit/philanthropic,191.0,True
+2024,41.05,72.0,30.95,E43,Southeast,Nonprofit/philanthropic,66.11,False
+2011,79.27,54.93,-24.34,E15,Southeast,Public,93.11,True
+2014,81.08,95.08,14.0,E30,Southeast,Public,26.08,False
+2024,2.48,40.56,38.08,E48,Southeast,Nonprofit/philanthropic,134.67,True
+2013,43.66,5.93,-37.73,E07,Southeast,Nonprofit/philanthropic,43.44,False
+2015,21.01,0.0,-21.01,E18,Southeast,Nonprofit/philanthropic,41.0,False
+2013,0.0,24.86,24.86,E39,Southeast,Private for-profit,91.78,False
+2019,27.91,4.11,-23.8,E16,Southeast,Nonprofit/philanthropic,41.5,False
+2014,43.25,7.14,-36.11,E09,South,Nonprofit/philanthropic,158.61,True
+2015,8.24,27.5,19.26,E35,Southeast,Nonprofit/philanthropic,60.0,False
+2015,17.65,0.0,-17.65,E22,Northeast,Public,29.08,False
+2014,6.34,36.84,30.5,E42,Northeast,Private for-profit,174.44,True
+2017,94.47,11.79,-82.68,E01,Northeast,Private for-profit,153.39,True
+2018,7.69,51.67,43.97,E50,South,Public,25.0,False
+2011,47.87,68.75,20.88,E36,Northeast,Private for-profit,108.5,False
+2010,33.33,80.97,47.64,E53,Northeast,Nonprofit/philanthropic,111.78,True
+2012,89.19,64.0,-25.19,E14,Northeast,Private for-profit,26.38,False
+2013,23.72,7.88,-15.84,E25,South,Public,83.33,False
+2012,26.76,40.33,13.58,E29,Northeast,Public,219.89,False
+2018,49.37,10.34,-39.03,E06,South,Nonprofit/philanthropic,66.38,True
+2013,27.35,9.55,-17.8,E21,South,Nonprofit/philanthropic,122.22,False
+2011,63.54,82.65,19.11,E34,South,Private for-profit,90.8,False
+2017,52.06,1.63,-50.43,E02,South,Nonprofit/philanthropic,104.5,True
+2022,20.41,45.21,24.8,E38,Northeast,Public,51.44,False
+2010,45.86,17.79,-28.07,E11,South,Nonprofit/philanthropic,67.39,False
+2015,30.61,79.38,48.77,E54,Northeast,Public,43.06,True
+2020,67.6,41.29,-26.31,E12,South,Nonprofit/philanthropic,119.0,True
+2013,53.46,36.23,-17.23,E23,Southeast,Nonprofit/philanthropic,54.67,True
+2021,0.0,63.2,63.2,E56,Southeast,Nonprofit/philanthropic,67.33,True
+2011,4.33,21.22,16.89,E31,South,Private for-profit,173.73,False
+2017,52.54,10.05,-42.48,E05,South,Nonprofit/philanthropic,133.89,True
+2024,0.59,18.46,17.87,E33,North,Nonprofit/philanthropic,72.94,False
+2010,2.72,37.89,35.16,E46,South,Nonprofit/philanthropic,104.67,True
+2024,28.75,3.0,-25.75,E13,North,Public,30.47,False
+2011,80.17,30.99,-49.18,E03,Southeast,Public,84.53,True
+2013,17.54,3.84,-13.7,E27,Southeast,Nonprofit/philanthropic,113.06,False
+2015,0.0,50.31,50.31,E55,Northeast,Nonprofit/philanthropic,105.28,True
+2015,0.57,35.6,35.02,E45,Northeast,Nonprofit/philanthropic,145.5,True
+2024,13.33,36.36,23.03,E37,Northeast,Public,78.43,False
+2012,10.99,57.81,46.82,E52,Northeast,Private for-profit,92.61,True

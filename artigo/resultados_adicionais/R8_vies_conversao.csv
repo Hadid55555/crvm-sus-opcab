@@ -1,0 +1,10 @@
+taxa_conversao,or_obito_convertido,mort_convertidos_pct,convertidos_estimados,mort_sem_cec_intencao_pct,mort_com_cec_sem_convertidos_pct,dr_bruta_observada_pp,dr_bruta_corrigida_pp,pct_da_diferenca_explicada,or_bruto_observado,or_bruto_corrigido
+"Emergent conversion, CORONARY (3.2%)",OR 4.65 (lower CI),15.351,1628,4.123,6.009,-2.29,-1.886,17.643,0.606,0.673
+"Emergent conversion, CORONARY (3.2%)",OR 6.18 (pooled),19.421,1628,4.252,5.993,-2.29,-1.741,23.967,0.606,0.697
+"Emergent conversion, CORONARY (3.2%)",OR 8.20 (upper CI),24.23,1628,4.405,5.975,-2.29,-1.57,31.439,0.606,0.725
+Meta-analysis pooled (4.9%),OR 4.65 (lower CI),15.351,2538,4.319,5.989,-2.29,-1.67,27.068,0.606,0.709
+Meta-analysis pooled (4.9%),OR 6.18 (pooled),19.421,2538,4.517,5.965,-2.29,-1.448,36.773,0.606,0.746
+Meta-analysis pooled (4.9%),OR 8.20 (upper CI),24.23,2538,4.752,5.937,-2.29,-1.185,48.241,0.606,0.79
+"All conversions, CORONARY (7.9%)",OR 4.65 (lower CI),15.351,4245,4.669,5.952,-2.29,-1.283,43.973,0.606,0.774
+"All conversions, CORONARY (7.9%)",OR 6.18 (pooled),19.421,4245,4.99,5.912,-2.29,-0.922,59.749,0.606,0.836
+"All conversions, CORONARY (7.9%)",OR 8.20 (upper CI),24.23,4245,5.37,5.865,-2.29,-0.495,78.394,0.606,0.911

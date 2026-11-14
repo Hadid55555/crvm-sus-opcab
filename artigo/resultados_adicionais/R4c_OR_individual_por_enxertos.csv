@@ -1,0 +1,15 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi,amostra,efeitos_fixos_hospital,mort_on,mort_off
+All codes (2008–2025),off,0.5925,0.502,0.6994,0.0,382920,286,21667,-2.2799,-2.9603,-1.5995,"All hospitals, 2008–2025",False,5.8797,3.6841
+All codes (2008–2025),off,0.572,0.5155,0.6347,0.0,382731,273,21666,,,,"All hospitals, 2008–2025",True,,
+1-graft codes,off,0.5954,0.4962,0.7144,0.0,68942,269,4026,-2.4476,-3.3895,-1.5057,"All hospitals, 2008–2025",False,6.3909,4.0261
+1-graft codes,off,0.521,0.4441,0.6112,0.0,68294,226,4025,,,,"All hospitals, 2008–2025",True,,
+≥2-graft codes,off,0.5625,0.4541,0.6968,0.0,313978,282,17641,-2.4143,-3.19,-1.6387,"All hospitals, 2008–2025",False,5.7869,3.4402
+≥2-graft codes,off,0.5953,0.5238,0.6767,0.0,313717,262,17640,,,,"All hospitals, 2008–2025",True,,
+All codes (2008–2025),off,0.5126,0.4229,0.6213,0.0,252618,130,14616,-2.782,-3.5512,-2.0127,"Stable graft-coding hospitals (130), 2008–2025",False,5.9448,3.5563
+All codes (2008–2025),off,0.592,0.5253,0.6671,0.0,252618,130,14616,,,,"Stable graft-coding hospitals (130), 2008–2025",True,,
+1-graft codes,off,0.4908,0.4052,0.5945,0.0,38902,129,2459,-3.3115,-4.3523,-2.2707,"Stable graft-coding hospitals (130), 2008–2025",False,6.9002,3.4931
+1-graft codes,off,0.5587,0.4673,0.668,0.0,38527,114,2458,,,,"Stable graft-coding hospitals (130), 2008–2025",True,,
+≥2-graft codes,off,0.5125,0.4077,0.6442,0.0,213716,130,12157,-2.7153,-3.5185,-1.9121,"Stable graft-coding hospitals (130), 2008–2025",False,5.7932,3.5973
+≥2-graft codes,off,0.5934,0.5054,0.6967,0.0,213715,129,12157,,,,"Stable graft-coding hospitals (130), 2008–2025",True,,
+"Chronic presentations only (I25, I20.1–I20.9), 2003–2025",off,0.5895,0.5002,0.6947,0.0,144657,298,7647,-2.1747,-2.739,-1.6105,"All hospitals, 2003–2025",False,,
+"Chronic presentations only (I25, I20.1–I20.9), 2003–2025",off,0.5404,0.4762,0.6134,0.0,144344,267,7647,,,,"All hospitals, 2003–2025",True,,

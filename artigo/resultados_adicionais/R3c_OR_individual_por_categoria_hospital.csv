@@ -1,0 +1,29 @@
+modelo,termo,or,lo,hi,p,aih,hospitais,eventos,dr_pp,dr_lo,dr_hi,estrato,efeitos_fixos_hospital,aih_off,pct_off
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.7468,0.5999,0.9297,0.009,295862,277,18946,-1.5176,-2.5641,-0.471,0-5%,False,1986.0,0.6713
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.8061,0.6552,0.9918,0.0416,295610,264,18940,,,,0-5%,True,,
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.6307,0.5636,0.7058,0.0,105245,145,4768,-1.6462,-2.056,-1.2364,>5-15%,False,9360.0,8.8935
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.6326,0.5663,0.7068,0.0,104914,136,4768,,,,>5-15%,True,,
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.53,0.4532,0.62,0.0,29999,95,1635,-2.6841,-3.2651,-2.1031,>15-30%,False,6372.0,21.2407
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.5301,0.4516,0.6224,0.0,29640,82,1635,,,,>15-30%,True,,
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.5042,0.4287,0.593,0.0,54974,83,2893,-3.3852,-4.1824,-2.5879,>30%,False,31809.0,57.8619
+"Hospital-year OPCAB % (same year, incl. patient)",off,0.4722,0.4043,0.5516,0.0,54771,71,2893,,,,>30%,True,,
+Hospital OPCAB % in prior year,off,0.6668,0.5444,0.8168,0.0001,279005,254,17749,-2.0028,-2.9343,-1.0712,0-5%,False,3806.0,1.3641
+Hospital OPCAB % in prior year,off,0.6965,0.5807,0.8353,0.0001,278942,248,17749,,,,0-5%,True,,
+Hospital OPCAB % in prior year,off,0.6699,0.6011,0.7467,0.0,99544,137,4377,-1.4217,-1.8122,-1.0313,>5-15%,False,8942.0,8.983
+Hospital OPCAB % in prior year,off,0.6933,0.6207,0.7744,0.0,99453,132,4377,,,,>5-15%,True,,
+Hospital OPCAB % in prior year,off,0.4666,0.3903,0.5579,0.0,27448,83,1496,-3.1018,-3.7996,-2.4041,>15-30%,False,5437.0,19.8084
+Hospital OPCAB % in prior year,off,0.4689,0.3874,0.5675,0.0,27305,77,1496,,,,>15-30%,True,,
+Hospital OPCAB % in prior year,off,0.5372,0.4547,0.6347,0.0,51753,72,2664,-2.967,-3.7206,-2.2133,>30%,False,28617.0,55.2953
+Hospital OPCAB % in prior year,off,0.4824,0.4095,0.5682,0.0,51674,68,2664,,,,>30%,True,,
+Hospital OPCAB % over 2003–2025,off,0.804,0.6469,0.9994,0.0493,230122,126,14851,-1.1797,-2.3087,-0.0507,Low (>0–<5%),False,2878.0,1.2506
+Hospital OPCAB % over 2003–2025,off,0.7549,0.6287,0.9063,0.0026,230094,125,14851,,,,Low (>0–<5%),True,,
+Hospital OPCAB % over 2003–2025,off,0.6539,0.5554,0.7698,0.0,136316,58,6653,-1.6556,-2.2611,-1.0502,Intermediate (5–<20%),False,13066.0,9.5851
+Hospital OPCAB % over 2003–2025,off,0.6398,0.5446,0.7516,0.0,136236,56,6653,,,,Intermediate (5–<20%),True,,
+Hospital OPCAB % over 2003–2025,off,0.6096,0.5246,0.7084,0.0,83608,48,4021,-2.0939,-2.7377,-1.4501,High (≥20%),False,33583.0,40.1672
+Hospital OPCAB % over 2003–2025,off,0.5168,0.4583,0.5828,0.0,83599,45,4021,,,,High (≥20%),True,,
+Hospital-year OPCAB volume,off,0.648,0.5728,0.7329,0.0,159226,227,9245,-1.9758,-2.4892,-1.4623,<25,False,10236.0,6.4286
+Hospital-year OPCAB volume,off,0.6051,0.5386,0.6799,0.0,159082,219,9245,,,,<25,True,,
+Hospital-year OPCAB volume,off,0.5684,0.4829,0.669,0.0,60051,73,2937,-2.3628,-3.0286,-1.6971,25-99,False,21211.0,35.3216
+Hospital-year OPCAB volume,off,0.5208,0.4537,0.5978,0.0,60051,73,2937,,,,25-99,True,,
+Hospital-year OPCAB volume,off,0.5583,0.4669,0.6677,0.0,69491,19,2784,-1.9667,-2.4854,-1.448,≥100,False,18080.0,26.0178
+Hospital-year OPCAB volume,off,0.5264,0.4255,0.6511,0.0,69491,19,2784,,,,≥100,True,,

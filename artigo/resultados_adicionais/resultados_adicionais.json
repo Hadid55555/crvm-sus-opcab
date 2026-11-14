@@ -1,0 +1,233 @@
+{
+ "configuracao": {
+  "janela": "2003–2025",
+  "casemix": "cr(idade, df=4, constraints='center') + fem + C(diag, Treatment('I25 chronic IHD'))",
+  "hospital": "C(reg, Treatment('Southeast')) + C(natj, Treatment('Nonprofit/philanthropic'))",
+  "boot": 9999
+ },
+ "fluxo": {
+  "registros_RD_ano_internacao_2003_2025": 486145,
+  "menores_18": 64,
+  "aih_duplicadas": 2,
+  "longa_permanencia_ident5": 0,
+  "aih_reapresentada_excluida": 1,
+  "adultos_analisados": 486080
+ },
+ "eb_tau2_intra_hospital": 0.009160113318218087,
+ "eb_lambda_mediana": 0.9669337229016748,
+ "hospitais_primeira_crvm_em_2000_censurados": 136,
+ "confiabilidade": [
+  {
+   "hospital_anos_min_crvm": 2,
+   "hospital_anos": 4544,
+   "hospitais": 283,
+   "var_intra_observada_pp2": 96.5407,
+   "var_binomial_esperada_pp2": 4.9842,
+   "confiabilidade_ponderada": 0.9484,
+   "confiabilidade_nao_ponderada": 0.8772
+  },
+  {
+   "hospital_anos_min_crvm": 10,
+   "hospital_anos": 4279,
+   "hospitais": 277,
+   "var_intra_observada_pp2": 96.1817,
+   "var_binomial_esperada_pp2": 4.7251,
+   "confiabilidade_ponderada": 0.9509,
+   "confiabilidade_nao_ponderada": 0.923
+  },
+  {
+   "hospital_anos_min_crvm": 30,
+   "hospital_anos": 3701,
+   "hospitais": 249,
+   "var_intra_observada_pp2": 94.394,
+   "var_binomial_esperada_pp2": 4.2417,
+   "confiabilidade_ponderada": 0.9551,
+   "confiabilidade_nao_ponderada": 0.9416
+  },
+  {
+   "hospital_anos_min_crvm": 50,
+   "hospital_anos": 2998,
+   "hospitais": 222,
+   "var_intra_observada_pp2": 91.5803,
+   "var_binomial_esperada_pp2": 3.7492,
+   "confiabilidade_ponderada": 0.9591,
+   "confiabilidade_nao_ponderada": 0.9498
+  }
+ ],
+ "eventos_n": 76,
+ "eventos_aumento_queda": [
+  38,
+  38
+ ],
+ "evento_Signed (per +10 pp change)": {
+  "pretendencia_chi2": 7.078831849858917,
+  "gl": 3,
+  "p_pretendencia": 0.06942712998872465,
+  "media_pos_0a3_pp": 0.01667622965252871,
+  "lo": -0.2064557201337961,
+  "hi": 0.2398081794388535,
+  "hospitais_evento": 76,
+  "aih": 486080,
+  "esperado_pp_se_individual_causal": -0.236
+ },
+ "evento_Increases only (per event)": {
+  "pretendencia_chi2": 5.402033312109812,
+  "gl": 3,
+  "p_pretendencia": 0.14461694958677695,
+  "media_pos_0a3_pp": -0.12151486371151622,
+  "lo": -1.1043701630499172,
+  "hi": 0.8613404356268848,
+  "hospitais_evento": 38,
+  "aih": 408274,
+  "delta_medio_pp": 34.10911591767653,
+  "esperado_pp_se_individual_causal": -0.8049751356571662
+ },
+ "evento_Decreases only (per event)": {
+  "pretendencia_chi2": 8.416433699268941,
+  "gl": 3,
+  "p_pretendencia": 0.03814541115449725,
+  "media_pos_0a3_pp": -0.24485703634217476,
+  "lo": -1.0975200606487598,
+  "hi": 0.6078059879644102,
+  "hospitais_evento": 38,
+  "aih": 408638,
+  "delta_medio_pp": -26.56057939249164,
+  "esperado_pp_se_individual_causal": 0.6268296736628026
+ },
+ "identificadores_n": 27,
+ "identificadores_sentido": {
+  "increase": 14,
+  "decrease": 7,
+  "fluctuating/no trend": 6
+ },
+ "institucional_teste_linearidade_wald": {
+  "chi2": 13.407581925991545,
+  "gl": 4,
+  "p": 0.009446807526511157
+ },
+ "institucional_categorias_wald": {
+  "chi2": 16.368788539274686,
+  "gl": 4,
+  "p": 0.002562201315988971
+ },
+ "institucional_categorias_wald_ajust_volume": {
+  "chi2": 8.564760947973522,
+  "gl": 4,
+  "p": 0.07294834941473997
+ },
+ "volume_wald_Overall": {
+  "chi2": 23.237777034593282,
+  "gl": 4,
+  "p": 0.00011350158717991193
+ },
+ "volume_or_por_duplicacao_Overall": {
+  "or": 0.9194070245425219,
+  "lo": 0.8589464061307446,
+  "hi": 0.9841234223051918,
+  "p": 0.015471970056272275
+ },
+ "volume_wald_On-pump": {
+  "chi2": 23.763439027824997,
+  "gl": 4,
+  "p": 8.908582745332438e-05
+ },
+ "volume_or_por_duplicacao_On-pump": {
+  "or": 0.9171144646505606,
+  "lo": 0.8561528112662402,
+  "hi": 0.9824168421841757,
+  "p": 0.01368246294959334
+ },
+ "volume_wald_Off-pump": {
+  "chi2": 9.733659608954206,
+  "gl": 4,
+  "p": 0.04516127153356968
+ },
+ "volume_or_por_duplicacao_Off-pump": {
+  "or": 0.9470874545603227,
+  "lo": 0.881680472669669,
+  "hi": 1.0173466174991637,
+  "p": 0.13649575113243512
+ },
+ "selecao_interacao_cat_full": {
+  "chi2": 8.739646806601428,
+  "gl": 3,
+  "p": 0.032960381986558256
+ },
+ "selecao_interacao_cat_lag": {
+  "chi2": 12.814437817996998,
+  "gl": 3,
+  "p": 0.005055572220703089
+ },
+ "selecao_interacao_cat_hosp": {
+  "chi2": 2.7840126760795,
+  "gl": 2,
+  "p": 0.24857607635103385
+ },
+ "selecao_interacao_offvol_cat": {
+  "chi2": 3.0340432123463814,
+  "gl": 2,
+  "p": 0.21936426812793286
+ },
+ "enxerto_interacao_All hospitals, 2008–2025": {
+  "chi2": 0.7446785135963844,
+  "gl": 1,
+  "p": 0.38816629272910175
+ },
+ "enxerto_interacao_Stable graft-coding hospitals (130), 2008–2025": {
+  "chi2": 0.0723450275235986,
+  "gl": 1,
+  "p": 0.7879525303804172
+ },
+ "morte30_n": 25851,
+ "dias_perm_igual_datas_pct": 99.99897136273864,
+ "alta_2024_25": {
+  "pct_2020_2023": 9.899257176720276,
+  "pct_2024_2025": 11.995265026963041,
+  "delta_pp": 2.096007850242765,
+  "top1_pct_da_variacao": 19.55396231329804,
+  "top5_pct_da_variacao": 75.07146975474005,
+  "top10_pct_da_variacao": 111.53274117739743,
+  "hospitais_aumento_>=5pp_(>=20 crvm em cada período)": 19,
+  "hospitais_queda_>=5pp_(>=20 crvm em cada período)": 16
+ },
+ "transicao_2008": {
+  "pct_off_2007": 10.073525968248022,
+  "pct_off_2008": 9.658926678870797,
+  "OR_2008_vs_2007_dentro_hospital": {
+   "or": 0.9566417613966017,
+   "lo": 0.7830299747454381,
+   "hi": 1.1687463943452623,
+   "p": 0.6644060873120639,
+   "beta": -0.044326292618797544,
+   "se": 0.10217245366460023
+  },
+  "hospitais": 102,
+  "mensal_jul07_jun08_pct_off": {
+   "200707": 9.07,
+   "200708": 10.09,
+   "200709": 9.67,
+   "200710": 9.91,
+   "200711": 8.51,
+   "200712": 9.29,
+   "200801": 9.0,
+   "200802": 8.38,
+   "200803": 8.84,
+   "200804": 10.55,
+   "200805": 10.03,
+   "200806": 8.95
+  }
+ },
+ "n_celulas_modelo_principal": 277642,
+ "hospitais_contribuem_FE": 223,
+ "UF_sem_contraste": {
+  "ufs": 8,
+  "pct_aih": 7.448979591836735,
+  "pct_off": 29.54550043410665
+ },
+ "alta_1enxerto_com_CEC": {
+  "pct_2020_23": 10.31233748355716,
+  "pct_2024_25": 13.794649529218352,
+  "top5_pct_da_variacao": 92.18849932677624,
+  "pct_da_variacao_nos_5_da_alta_sem_CEC": 19.06565268656237
+ }
+}

@@ -1,0 +1,13 @@
+versao,janela,coef_pp,lo,hi,p,hospitais_evento,aih,esperado_pp_se_individual_causal_por_10pp
+Signed (per +10 pp change),Pre (−5 to −2),-0.0166,-0.1921,0.1589,0.8531,76.0,486080.0,-0.236
+Signed (per +10 pp change),Years 0–1,0.0861,-0.1328,0.3049,0.4408,76.0,486080.0,-0.236
+Signed (per +10 pp change),Years 2–5,0.0316,-0.196,0.2592,0.7855,76.0,486080.0,-0.236
+Signed (per +10 pp change),Difference (2–5 minus 0–1),-0.0545,-0.2291,0.1201,0.541,,,-0.236
+Increases only (per event),Pre (−5 to −2),-0.3031,-1.2977,0.6914,0.5502,38.0,408274.0,-0.236
+Increases only (per event),Years 0–1,0.3093,-0.6964,1.315,0.5466,38.0,408274.0,-0.236
+Increases only (per event),Years 2–5,0.0594,-1.1667,1.2855,0.9243,38.0,408274.0,-0.236
+Increases only (per event),Difference (2–5 minus 0–1),-0.2499,-1.2628,0.763,0.6287,,,-0.236
+Decreases only (per event),Pre (−5 to −2),-0.09,-1.0897,0.9097,0.86,38.0,408638.0,-0.236
+Decreases only (per event),Years 0–1,-0.1796,-1.0633,0.704,0.6903,38.0,408638.0,-0.236
+Decreases only (per event),Years 2–5,-0.198,-1.0248,0.6288,0.6389,38.0,408638.0,-0.236
+Decreases only (per event),Difference (2–5 minus 0–1),-0.0183,-0.9199,0.8832,0.9682,,,-0.236

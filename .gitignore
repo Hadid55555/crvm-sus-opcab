@@ -1,0 +1,11 @@
+saida_crvm/
+pre2008/saida/
+pre2008/mapa_cgc_cnes_manual.csv
+artigo/resultados_diag/A5_hospitais_mudanca_1enxerto.csv
+artigo/resultados_diag/B1_hospitais_identificacao_*.csv
+artigo/resultados_v2*/M5_influencia.csv
+artigo/resultados_v2*/M5b_pesos_identificacao_hospital.csv
+artigo/resultados_v2*/V2_hospitais_pct_bruta_ajustada.csv
+ciha/resultados/C4_hospitais_sus_e_fora_do_sus.csv
+*.xlsx
+__pycache__/
