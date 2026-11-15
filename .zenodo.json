@@ -1,0 +1,32 @@
+{
+  "title": "Code and data for: Trends, centre variation and in-hospital mortality of off-pump coronary artery bypass grafting in Brazil's public health system, 2003–2025",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "license": "MIT",
+  "description": "Analysis code, aggregated results and analysis plan for the article. The code downloads the public SIH/SUS hospital discharge files (DATASUS) and reproduces every table and figure. No record-level data are included; hospitals are not named.",
+  "creators": [
+    {
+      "name": "Hadid, Leonardo",
+      "affiliation": "Instituto Nacional de Cardiologia, Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Salek, Luísa",
+      "affiliation": "Instituto Nacional de Cardiologia, Rio de Janeiro, Brazil"
+    },
+    {
+      "name": "Passos, Felipe S.",
+      "affiliation": "Department of Thoracic Surgery, Hospital MaterDei, Salvador, Brazil"
+    },
+    {
+      "name": "Caldonazo, Tulio",
+      "affiliation": "Department of Cardiothoracic Surgery, Jena University Hospital, Friedrich-Schiller-University Jena, Jena, Germany"
+    }
+  ],
+  "keywords": [
+    "off-pump coronary artery bypass",
+    "administrative data",
+    "practice variation",
+    "Brazil",
+    "SIH/SUS"
+  ]
+}

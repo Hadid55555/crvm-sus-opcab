@@ -45,4 +45,4 @@ The CSV and JSON results of every analysis are included (`artigo/resultados_*`, 
 
 ## Licence
 
-MIT. If you use this code, please cite the article (`CITATION.cff`).
+MIT for the code; aggregated results CC BY 4.0. If you use this code, please cite the article (`CITATION.cff`).
