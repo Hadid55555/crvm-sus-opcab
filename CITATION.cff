@@ -4,6 +4,7 @@ title: "Code and data for: Trends, centre variation and in-hospital mortality of
 type: software
 license: MIT
 version: 1.0.0
+doi: 10.5281/zenodo.24251598
 authors:
   - family-names: Hadid
     given-names: Leonardo

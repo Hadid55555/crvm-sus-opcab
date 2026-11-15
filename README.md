@@ -1,5 +1,7 @@
 # Off-pump CABG in Brazil's public health system, 2003–2025
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24251598.svg)](https://doi.org/10.5281/zenodo.24251598)
+
 Code for the article:
 
 > Hadid L, Salek L, Passos FS, Caldonazo T. Trends, centre variation and in-hospital mortality of off-pump coronary artery bypass grafting in Brazil's public health system, 2003–2025.
